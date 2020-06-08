@@ -1,0 +1,1214 @@
+{
+  "menu": [
+    {
+      "img": "img/tabs/vegy.jpg",
+      "title": "Меню 'Фитнес'",
+      "descr": "Меню 'Фитнес' - это новый подход к приготовлению блюд: больше свежих овощей и фруктов. Продукт активных и здоровых людей. Это абсолютно новый продукт с оптимальной ценой и высоким качеством!",
+      "price": 9
+    },
+    {
+      "img": "img/tabs/elite.jpg",
+      "title": "Меню 'Премиум'",
+      "descr": "В меню 'Премиум' мы используем не только красивый дизайн упаковки, но и качественное исполнение блюд. Красная рыба, морепродукты, фрукты - ресторанное меню без похода в ресторан!",
+      "price": 21
+    },
+    {
+      "img": "img/tabs/post.jpg",
+      "title": "Меню 'Постное'",
+      "descr": "Меню 'Постное' - это тщательный подбор ингредиентов: полное отсутствие продуктов животного происхождения, молоко из миндаля, овса, кокоса или гречки, правильное количество белков за счет тофу и импортных вегетарианских стейков.",
+      "price": 14
+    }
+  ],
+  "requests": [
+    {
+      "name": "Дмитрий",
+      "phone": "+9283746234",
+      "id": 1
+    },
+    {
+      "name": "Николай",
+      "phone": "+9283746234",
+      "id": 2
+    },
+    {
+      "name": "Валентин",
+      "phone": "+9283746234",
+      "id": 3
+    },
+    {
+      "name": "Дмитрий",
+      "phone": "+9283746923764",
+      "id": 4
+    },
+    {
+      "name": "Иван",
+      "phone": "908",
+      "id": 5
+    },
+    {
+      "name": "dsf",
+      "phone": "adsf",
+      "id": 6
+    },
+    [
+      "Выберите стиль питания",
+      "Что мы можем вам предложить?",
+      "Быстро и полезно",
+      "Правильный рацион",
+      "Рассчитаем вашу потребность в калориях?\n            ",
+      "Наше меню на день",
+      "Меню \"Фитнес\"",
+      "Меню “Премиум”",
+      "Меню \"Постное\""
+    ],
+    [
+      "Выберите стиль питания",
+      "Что мы можем вам предложить?",
+      "Быстро и полезно",
+      "Правильный рацион",
+      "Рассчитаем вашу потребность в калориях?\n            ",
+      "Наше меню на день",
+      "Меню \"Фитнес\"",
+      "Меню “Премиум”",
+      "Меню \"Постное\""
+    ],
+    [
+      {
+        "header": "H3",
+        "content": "Выберите стиль питания"
+      },
+      {
+        "header": "H2",
+        "content": "Что мы можем вам предложить?"
+      },
+      {
+        "header": "H2",
+        "content": "Быстро и полезно"
+      },
+      {
+        "header": "H2",
+        "content": "Правильный рацион"
+      },
+      {
+        "header": "H2",
+        "content": "Рассчитаем вашу потребность в калориях?\n            "
+      },
+      {
+        "header": "H2",
+        "content": "Наше меню на день"
+      },
+      {
+        "header": "H3",
+        "content": "Меню \"Фитнес\""
+      },
+      {
+        "header": "H3",
+        "content": "Меню “Премиум”"
+      },
+      {
+        "header": "H3",
+        "content": "Меню \"Постное\""
+      }
+    ],
+    [
+      {
+        "header": "H3",
+        "content": "Выберите стиль питания"
+      },
+      {
+        "header": "H2",
+        "content": "Что мы можем вам предложить?"
+      },
+      {
+        "header": "H2",
+        "content": "Быстро и полезно"
+      },
+      {
+        "header": "H2",
+        "content": "Правильный рацион"
+      },
+      {
+        "header": "H2",
+        "content": "Рассчитаем вашу потребность в калориях?\n            "
+      },
+      {
+        "header": "H2",
+        "content": "Наше меню на день"
+      },
+      {
+        "header": "H3",
+        "content": "Меню \"Фитнес\""
+      },
+      {
+        "header": "H3",
+        "content": "Меню “Премиум”"
+      },
+      {
+        "header": "H3",
+        "content": "Меню \"Постное\""
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "header": "H3",
+        "content": "Выберите стиль питания"
+      },
+      {
+        "header": "H2",
+        "content": "Что мы можем вам предложить?"
+      },
+      {
+        "header": "H2",
+        "content": "Быстро и полезно"
+      },
+      {
+        "header": "H2",
+        "content": "Правильный рацион"
+      },
+      {
+        "header": "H2",
+        "content": "Рассчитаем вашу потребность в калориях?\n            "
+      },
+      {
+        "header": "H2",
+        "content": "Наше меню на день"
+      },
+      {
+        "header": "H3",
+        "content": "Меню \"Фитнес\""
+      },
+      {
+        "header": "H3",
+        "content": "Меню “Премиум”"
+      },
+      {
+        "header": "H3",
+        "content": "Меню \"Постное\""
+      }
+    ],
+    [
+      {
+        "header": "H3",
+        "content": "Выберите стиль питания"
+      },
+      {
+        "header": "H2",
+        "content": "Что мы можем вам предложить?"
+      },
+      {
+        "header": "H2",
+        "content": "Быстро и полезно"
+      },
+      {
+        "header": "H2",
+        "content": "Правильный рацион"
+      },
+      {
+        "header": "H2",
+        "content": "Рассчитаем вашу потребность в калориях?\n            "
+      },
+      {
+        "header": "H2",
+        "content": "Наше меню на день"
+      },
+      {
+        "header": "H3",
+        "content": "Меню \"Фитнес\""
+      },
+      {
+        "header": "H3",
+        "content": "Меню “Премиум”"
+      },
+      {
+        "header": "H3",
+        "content": "Меню \"Постное\""
+      }
+    ],
+    [
+      {
+        "header": "H3",
+        "content": "Выберите стиль питания"
+      },
+      {
+        "header": "H2",
+        "content": "Что мы можем вам предложить?"
+      },
+      {
+        "header": "H2",
+        "content": "Быстро и полезно"
+      },
+      {
+        "header": "H2",
+        "content": "Правильный рацион"
+      },
+      {
+        "header": "H2",
+        "content": "Рассчитаем вашу потребность в калориях?\n            "
+      },
+      {
+        "header": "H2",
+        "content": "Наше меню на день"
+      },
+      {
+        "header": "H3",
+        "content": "Меню \"Фитнес\""
+      },
+      {
+        "header": "H3",
+        "content": "Меню “Премиум”"
+      },
+      {
+        "header": "H3",
+        "content": "Меню \"Постное\""
+      }
+    ],
+    [
+      {
+        "header": "H3",
+        "content": "Выберите стиль питания"
+      },
+      {
+        "header": "H2",
+        "content": "Что мы можем вам предложить?"
+      },
+      {
+        "header": "H2",
+        "content": "Быстро и полезно"
+      },
+      {
+        "header": "H2",
+        "content": "Правильный рацион"
+      },
+      {
+        "header": "H2",
+        "content": "Рассчитаем вашу потребность в калориях?\n            "
+      },
+      {
+        "header": "H2",
+        "content": "Наше меню на день"
+      },
+      {
+        "header": "H3",
+        "content": "Меню \"Фитнес\""
+      },
+      {
+        "header": "H3",
+        "content": "Меню “Премиум”"
+      },
+      {
+        "header": "H3",
+        "content": "Меню \"Постное\""
+      }
+    ],
+    [
+      {
+        "header": "H1",
+        "content": "\nНовости\n"
+      }
+    ],
+    [
+      {
+        "header": "H1",
+        "content": "Останні новини України"
+      },
+      {
+        "header": "H3",
+        "content": "Вибране"
+      },
+      {
+        "header": "H3",
+        "content": "Автосайти"
+      },
+      {
+        "header": "H3",
+        "content": "Нерухомість"
+      },
+      {
+        "header": "H3",
+        "content": "Бізнес та Фінанси"
+      },
+      {
+        "header": "H3",
+        "content": "Жінкам"
+      },
+      {
+        "header": "H3",
+        "content": "Подорожі"
+      },
+      {
+        "header": "H3",
+        "content": "Інтернет магазини"
+      },
+      {
+        "header": "H3",
+        "content": "Робота та Освіта"
+      },
+      {
+        "header": "H3",
+        "content": "Медицина"
+      },
+      {
+        "header": "H3",
+        "content": "Інтернет"
+      },
+      {
+        "header": "H3",
+        "content": "Спорт"
+      },
+      {
+        "header": "H3",
+        "content": "Держава"
+      },
+      {
+        "header": "H2",
+        "content": "\nГоловне\n"
+      },
+      {
+        "header": "H2",
+        "content": "\nПолітика\n"
+      },
+      {
+        "header": "H2",
+        "content": "\nЕкономіка\n"
+      },
+      {
+        "header": "H2",
+        "content": "\nПодії\n"
+      },
+      {
+        "header": "H2",
+        "content": "\nCOVID-19\n"
+      },
+      {
+        "header": "H2",
+        "content": "\nСуспільство\n"
+      },
+      {
+        "header": "H2",
+        "content": "\nКиївські новини\n\n\n"
+      },
+      {
+        "header": "H2",
+        "content": "\nТехнології\n"
+      },
+      {
+        "header": "H2",
+        "content": "\nНаука\n"
+      },
+      {
+        "header": "H2",
+        "content": "\nАвто\n"
+      },
+      {
+        "header": "H2",
+        "content": "\nСпорт\n"
+      },
+      {
+        "header": "H2",
+        "content": "\nЗдоров'я\n"
+      },
+      {
+        "header": "H2",
+        "content": "\nШоу-бізнес\n"
+      },
+      {
+        "header": "H2",
+        "content": "\nЗа кордоном\n"
+      },
+      {
+        "header": "H2",
+        "content": "\nКурйози\n"
+      },
+      {
+        "header": "H2",
+        "content": "\nФоторепортаж\n"
+      },
+      {
+        "header": "H2",
+        "content": "\nВідео\n"
+      },
+      {
+        "header": "H3",
+        "content": "Авто"
+      },
+      {
+        "header": "H3",
+        "content": "Гаджети та електроніка"
+      },
+      {
+        "header": "H3",
+        "content": "Дитячі товари"
+      },
+      {
+        "header": "H3",
+        "content": "Дім та інтер'єр"
+      },
+      {
+        "header": "H3",
+        "content": "Подарунки"
+      },
+      {
+        "header": "H3",
+        "content": "Одяг, Косметика"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "header": "DIV",
+        "content": "\n            \n                \n            \n            \n                Доставка питания\n                Второй пункт\n            \n        "
+      },
+      {
+        "header": "DIV",
+        "content": "\n            Связаться с нами\n        "
+      },
+      {
+        "header": "DIV",
+        "content": "\n        Социальные сети\n        \n        \n            \n        \n        \n            \n        \n    "
+      },
+      {
+        "header": "DIV",
+        "content": "\n        \n        \n            \n                \n                    \n                    \n                        Меню \"Фитнес\" - это новый подход к приготовлению блюд: больше свежих овощей и фруктов. Для людей, которые интересуются спортом; активных и здоровых. Это абсолютно новый продукт с оптимальной ценой и высоким качеством!\n                    \n                \n                \n                    \n                    \n                        Меню “Премиум” - мы используем не только красивый дизайн упаковки, но и качественное исполнение блюд. Красная рыба, морепродукты, фрукты - ресторанное меню без похода в ресторан!                                     \n                    \n                 \n                \n                    \n                    \n                        Наше специальное “Постное меню” - это тщательный подбор ингредиентов: полное отсутствие продуктов животного происхождения. Полная гармония с собой и природой в каждом элементе! Все будет Ом!                                     \n                    \n                \n                \n                    \n                    \n                        Меню \"Сбалансированное\" - это соответствие вашего рациона всем научным рекомендациям. Мы тщательно просчитываем вашу потребность в к/б/ж/у и создаем лучшие блюда для вас.\n                    \n                 \n                \n                    Выберите стиль питания\n                    \n                        Фитнес\n                        Премиум\n                        Постное\n                        Сбалансированное\n                    \n                \n            \n            Живи полной жизнью!\n        \n    "
+      },
+      {
+        "header": "DIV",
+        "content": ""
+      },
+      {
+        "header": "DIV",
+        "content": "\n        \n        \n            \n                Что мы можем вам предложить?\n                \n                    Наша основная идея - это правильное питание. Оно может быть простым и вкусным. Мы не просто доставка, мы сервис! Мы взяли на себя все расчеты БЖУ, калорийности, объемов порций и прочие важные, но скучные аспекты. Вам остается только полезная, сытная и правильная еда, которую мы привозим прямо под дверь.\n                \n            \n            \n                Связаться с нами\n            \n        \n        \n            \n                Быстро и полезно\n                \n                    Готовка дома занимает много сил, времени и нервов. Мы привозим еду сразу на целый день, и ты можешь действовать так, как тебе удобно, не подстраиваясь ни под кого и будучи уверенным в качестве продукта!\n                \n                Правильный рацион\n                \n                    Мы разработали специальное меню, где учтены все нюансы правильного питания, от баланса БЖУ до их приготовления и дробления рациона.\n                \n            \n            \n                \n                    \n                        \n                    \n                    01\n                    /\n                    04\n                    \n                        \n                    \n                    \n                \n                \n\n                    \n                    \n                        \n                            \n                        \n\n                        \n                            \n                        \n\n                        \n                            \n                        \n                        \n                        \n                            \n                        \n                    \n                    \n                    \n                \n            \n        \n    "
+      },
+      {
+        "header": "DIV",
+        "content": ""
+      },
+      {
+        "header": "DIV",
+        "content": "\n        \n            Рассчитаем вашу потребность в калориях?\n            \n            \n                \n                    Ваш пол\n                \n                \n                    Женщина\n                    Мужчина\n                \n\n                \n                    Ваша конституция\n                \n                \n                    \n                    \n                    \n                \n\n                \n                    Выберите вашу физическая активность\n                \n                \n                    Низкая активность \n                    Невысокая активность\n                    Умеренная активность\n                    Высокая активность\n                \n\n                \n\n                \n                    \n                        Ваша суточная норма калорий:\n                    \n                    \n                        00 ккал\n                    \n                \n            \n        \n    "
+      },
+      {
+        "header": "DIV",
+        "content": ""
+      },
+      {
+        "header": "DIV",
+        "content": "\n        Наше меню на день\n\n        \n            \n                \n                    \n                    Меню \"Фитнес\"\n                    Меню \"Фитнес\" - это новый подход к приготовлению блюд: больше свежих овощей и фруктов. Продукт активных и здоровых людей. Это абсолютно новый продукт с оптимальной ценой и высоким качеством!\n                    \n                    \n                        Цена:\n                        229 грн/день\n                    \n                \n                \n                    \n                    Меню “Премиум”\n                    В меню “Премиум” мы используем не только красивый дизайн упаковки, но и качественное исполнение блюд. Красная рыба, морепродукты, фрукты - ресторанное меню без похода в ресторан!\n                    \n                    \n                        Цена:\n                        550 грн/день\n                    \n                \n                \n                    \n                    Меню \"Постное\"\n                    Меню “Постное” - это тщательный подбор ингредиентов: полное отсутствие продуктов животного происхождения, молоко из миндаля, овса, кокоса или гречки, правильное количество белков за счет тофу и импортных вегетарианских стейков. \n                    \n                    \n                        Цена:\n                        430 грн/день\n                    \n                \n            \n        \n    "
+      },
+      {
+        "header": "DIV",
+        "content": "\n        \n            Заказывай пробный день прямо сейчас!\n            \n                \n                \n                \n                Перезвонить мне\n            \n        \n    "
+      },
+      {
+        "header": "DIV",
+        "content": ""
+      },
+      {
+        "header": "DIV",
+        "content": "\n        \n        \n            \n                Акция для новых клиентов!\n                \n                    Мы ценим каждого клиента и предлагаем вам стать одним из них на очень выгодных условиях. \n                    Каждому, кто закажет доставку питание на неделю, будет предоставлена скидка в размере 20%!\n                    \n                    Акция закончится 20 мая в 00:00\n                \n            \n            \n                Осталось до конца акции:\n                \n                    \n                        04\n                        дней\n                    \n                    \n                        16\n                        часов\n                    \n                    \n                        49\n                        минут\n                    \n                    \n                        50\n                        секунд\n                    \n                \n            \n        \n    "
+      },
+      {
+        "header": "DIV",
+        "content": "\n            \n                Мы в социальных сетях:\n                instagram\n                facebook\n            \n            \n                \n            \n            \n                Или позвоните нам\n                +380678341034\n                +380500941356\n            \n        "
+      },
+      {
+        "header": "DIV",
+        "content": "\n        \n            \n                \n                    ×\n                    Мы свяжемся с вами как можно быстрее!\n                    \n                    \n                    Перезвонить мне\n                \n            \n        \n    "
+      }
+    ],
+    [
+      {
+        "header": "DIV",
+        "content": "\n            \n                \n            \n            \n                Доставка питания\n                Второй пункт\n            \n        "
+      },
+      {
+        "header": "DIV",
+        "content": "\n            Связаться с нами\n        "
+      },
+      {
+        "header": "DIV",
+        "content": "\n        Социальные сети\n        \n        \n            \n        \n        \n            \n        \n    "
+      },
+      {
+        "header": "DIV",
+        "content": "\n        \n        \n            \n                \n                    \n                    \n                        Меню \"Фитнес\" - это новый подход к приготовлению блюд: больше свежих овощей и фруктов. Для людей, которые интересуются спортом; активных и здоровых. Это абсолютно новый продукт с оптимальной ценой и высоким качеством!\n                    \n                \n                \n                    \n                    \n                        Меню “Премиум” - мы используем не только красивый дизайн упаковки, но и качественное исполнение блюд. Красная рыба, морепродукты, фрукты - ресторанное меню без похода в ресторан!                                     \n                    \n                 \n                \n                    \n                    \n                        Наше специальное “Постное меню” - это тщательный подбор ингредиентов: полное отсутствие продуктов животного происхождения. Полная гармония с собой и природой в каждом элементе! Все будет Ом!                                     \n                    \n                \n                \n                    \n                    \n                        Меню \"Сбалансированное\" - это соответствие вашего рациона всем научным рекомендациям. Мы тщательно просчитываем вашу потребность в к/б/ж/у и создаем лучшие блюда для вас.\n                    \n                 \n                \n                    Выберите стиль питания\n                    \n                        Фитнес\n                        Премиум\n                        Постное\n                        Сбалансированное\n                    \n                \n            \n            Живи полной жизнью!\n        \n    "
+      },
+      {
+        "header": "DIV",
+        "content": ""
+      },
+      {
+        "header": "DIV",
+        "content": "\n        \n        \n            \n                Что мы можем вам предложить?\n                \n                    Наша основная идея - это правильное питание. Оно может быть простым и вкусным. Мы не просто доставка, мы сервис! Мы взяли на себя все расчеты БЖУ, калорийности, объемов порций и прочие важные, но скучные аспекты. Вам остается только полезная, сытная и правильная еда, которую мы привозим прямо под дверь.\n                \n            \n            \n                Связаться с нами\n            \n        \n        \n            \n                Быстро и полезно\n                \n                    Готовка дома занимает много сил, времени и нервов. Мы привозим еду сразу на целый день, и ты можешь действовать так, как тебе удобно, не подстраиваясь ни под кого и будучи уверенным в качестве продукта!\n                \n                Правильный рацион\n                \n                    Мы разработали специальное меню, где учтены все нюансы правильного питания, от баланса БЖУ до их приготовления и дробления рациона.\n                \n            \n            \n                \n                    \n                        \n                    \n                    01\n                    /\n                    04\n                    \n                        \n                    \n                    \n                \n                \n\n                    \n                    \n                        \n                            \n                        \n\n                        \n                            \n                        \n\n                        \n                            \n                        \n                        \n                        \n                            \n                        \n                    \n                    \n                    \n                \n            \n        \n    "
+      },
+      {
+        "header": "DIV",
+        "content": ""
+      },
+      {
+        "header": "DIV",
+        "content": "\n        \n            Рассчитаем вашу потребность в калориях?\n            \n            \n                \n                    Ваш пол\n                \n                \n                    Женщина\n                    Мужчина\n                \n\n                \n                    Ваша конституция\n                \n                \n                    \n                    \n                    \n                \n\n                \n                    Выберите вашу физическая активность\n                \n                \n                    Низкая активность \n                    Невысокая активность\n                    Умеренная активность\n                    Высокая активность\n                \n\n                \n\n                \n                    \n                        Ваша суточная норма калорий:\n                    \n                    \n                        2372 ккал\n                    \n                \n            \n        \n    "
+      },
+      {
+        "header": "DIV",
+        "content": ""
+      },
+      {
+        "header": "DIV",
+        "content": "\n        Наше меню на день\n\n        \n            \n                \n                    \n                    Меню \"Фитнес\"\n                    Меню \"Фитнес\" - это новый подход к приготовлению блюд: больше свежих овощей и фруктов. Продукт активных и здоровых людей. Это абсолютно новый продукт с оптимальной ценой и высоким качеством!\n                    \n                    \n                        Цена:\n                        229 грн/день\n                    \n                \n                \n                    \n                    Меню “Премиум”\n                    В меню “Премиум” мы используем не только красивый дизайн упаковки, но и качественное исполнение блюд. Красная рыба, морепродукты, фрукты - ресторанное меню без похода в ресторан!\n                    \n                    \n                        Цена:\n                        550 грн/день\n                    \n                \n                \n                    \n                    Меню \"Постное\"\n                    Меню “Постное” - это тщательный подбор ингредиентов: полное отсутствие продуктов животного происхождения, молоко из миндаля, овса, кокоса или гречки, правильное количество белков за счет тофу и импортных вегетарианских стейков. \n                    \n                    \n                        Цена:\n                        430 грн/день\n                    \n                \n            \n        \n    "
+      },
+      {
+        "header": "DIV",
+        "content": "\n        \n            Заказывай пробный день прямо сейчас!\n            \n                \n                \n                \n                Перезвонить мне\n            \n        \n    "
+      },
+      {
+        "header": "DIV",
+        "content": ""
+      },
+      {
+        "header": "DIV",
+        "content": "\n        \n        \n            \n                Акция для новых клиентов!\n                \n                    Мы ценим каждого клиента и предлагаем вам стать одним из них на очень выгодных условиях. \n                    Каждому, кто закажет доставку питание на неделю, будет предоставлена скидка в размере 20%!\n                    \n                    Акция закончится 20 мая в 00:00\n                \n            \n            \n                Осталось до конца акции:\n                \n                    \n                        04\n                        дней\n                    \n                    \n                        16\n                        часов\n                    \n                    \n                        49\n                        минут\n                    \n                    \n                        49\n                        секунд\n                    \n                \n            \n        \n    "
+      },
+      {
+        "header": "DIV",
+        "content": "\n            \n                Мы в социальных сетях:\n                instagram\n                facebook\n            \n            \n                \n            \n            \n                Или позвоните нам\n                +380678341034\n                +380500941356\n            \n        "
+      },
+      {
+        "header": "DIV",
+        "content": "\n        \n            \n                \n                    ×\n                    Мы свяжемся с вами как можно быстрее!\n                    \n                    \n                    Перезвонить мне\n                \n            \n        \n    "
+      }
+    ],
+    [
+      {
+        "header": "SCRIPT",
+        "content": "//<![CDATA[\n    document.write(\"<script async src='/browser-sync/browser-sync-client.js?v=2.26.7'><\\/script>\".replace(\"HOST\", location.hostname));\n//]]>"
+      },
+      {
+        "header": "SCRIPT",
+        "content": ""
+      },
+      {
+        "header": "SPAN",
+        "content": "Социальные сети"
+      },
+      {
+        "header": "SPAN",
+        "content": "01"
+      },
+      {
+        "header": "SPAN",
+        "content": "04"
+      },
+      {
+        "header": "INPUT",
+        "content": ""
+      },
+      {
+        "header": "INPUT",
+        "content": ""
+      },
+      {
+        "header": "INPUT",
+        "content": ""
+      },
+      {
+        "header": "SPAN",
+        "content": "00"
+      },
+      {
+        "header": "SPAN",
+        "content": "229"
+      },
+      {
+        "header": "SPAN",
+        "content": "550"
+      },
+      {
+        "header": "SPAN",
+        "content": "430"
+      },
+      {
+        "header": "INPUT",
+        "content": ""
+      },
+      {
+        "header": "INPUT",
+        "content": ""
+      },
+      {
+        "header": "SPAN",
+        "content": "20%!"
+      },
+      {
+        "header": "SPAN",
+        "content": "04"
+      },
+      {
+        "header": "SPAN",
+        "content": "16"
+      },
+      {
+        "header": "SPAN",
+        "content": "49"
+      },
+      {
+        "header": "SPAN",
+        "content": "31"
+      },
+      {
+        "header": "INPUT",
+        "content": ""
+      },
+      {
+        "header": "INPUT",
+        "content": ""
+      },
+      {
+        "header": "SCRIPT",
+        "content": ""
+      }
+    ],
+    [
+      {
+        "header": "SPAN",
+        "content": "Социальные сети"
+      },
+      {
+        "header": "SPAN",
+        "content": "01"
+      },
+      {
+        "header": "SPAN",
+        "content": "04"
+      },
+      {
+        "header": "INPUT",
+        "content": ""
+      },
+      {
+        "header": "INPUT",
+        "content": ""
+      },
+      {
+        "header": "INPUT",
+        "content": ""
+      },
+      {
+        "header": "SPAN",
+        "content": "2372"
+      },
+      {
+        "header": "SPAN",
+        "content": "229"
+      },
+      {
+        "header": "SPAN",
+        "content": "550"
+      },
+      {
+        "header": "SPAN",
+        "content": "430"
+      },
+      {
+        "header": "INPUT",
+        "content": ""
+      },
+      {
+        "header": "INPUT",
+        "content": ""
+      },
+      {
+        "header": "SPAN",
+        "content": "20%!"
+      },
+      {
+        "header": "SPAN",
+        "content": "04"
+      },
+      {
+        "header": "SPAN",
+        "content": "16"
+      },
+      {
+        "header": "SPAN",
+        "content": "49"
+      },
+      {
+        "header": "SPAN",
+        "content": "30"
+      },
+      {
+        "header": "INPUT",
+        "content": ""
+      },
+      {
+        "header": "INPUT",
+        "content": ""
+      },
+      {
+        "header": "SCRIPT",
+        "content": ""
+      }
+    ],
+    [
+      {
+        "header": "SPAN",
+        "content": "Социальные сети"
+      },
+      {
+        "header": "SPAN",
+        "content": "01"
+      },
+      {
+        "header": "SPAN",
+        "content": "04"
+      },
+      {
+        "header": "INPUT",
+        "content": ""
+      },
+      {
+        "header": "INPUT",
+        "content": ""
+      },
+      {
+        "header": "INPUT",
+        "content": ""
+      },
+      {
+        "header": "SPAN",
+        "content": "2372"
+      },
+      {
+        "header": "SPAN",
+        "content": "229"
+      },
+      {
+        "header": "SPAN",
+        "content": "550"
+      },
+      {
+        "header": "SPAN",
+        "content": "430"
+      },
+      {
+        "header": "INPUT",
+        "content": ""
+      },
+      {
+        "header": "INPUT",
+        "content": ""
+      },
+      {
+        "header": "SPAN",
+        "content": "20%!"
+      },
+      {
+        "header": "SPAN",
+        "content": "04"
+      },
+      {
+        "header": "SPAN",
+        "content": "16"
+      },
+      {
+        "header": "SPAN",
+        "content": "48"
+      },
+      {
+        "header": "SPAN",
+        "content": "33"
+      },
+      {
+        "header": "INPUT",
+        "content": ""
+      },
+      {
+        "header": "INPUT",
+        "content": ""
+      },
+      {
+        "header": "SCRIPT",
+        "content": ""
+      }
+    ],
+    [
+      {
+        "header": "INPUT",
+        "content": ""
+      },
+      {
+        "header": "SCRIPT",
+        "content": ""
+      },
+      {
+        "header": "SCRIPT",
+        "content": "(new Image()).src = 'https://ad.mox.tv/delivery/tracking?hash=Y202RFlaK3E5LzJZS1JNdmlIdVJMcVVRRXpTazhmdW1PWThKYTgxUUJqSFJORkpZSGFIeUNqRzZlYVhkOWJTZHZEWTdDZzZxSHVRRWYyWGp1MWNZUjFZcTMzZWgzdFc4aDdrVUFhY2t5S2p4eURncFVSSzB4R2hsNjlOTWpZdE5MU2R1RVNxZEQzSWhaLzZ0cFM0Q3ArSVcxZFR0WmJnYllReklDL21KeGJkN1MvQlJpT0Z1NXNJNkZRZy9JZjFjVkhRVEJmYmI3SGlaUC9hdStvNDRkTUlwWFJLQTVhQ21BTis5U2ZPMW8vNzE2SDhNclN5cmdXZE42YUp3WGdQdWUzS3ZER0oreVUzdGdENnc0UGJYQTdDTDd0MmZyU3VlZDNsUFNSb2xsaURDcnF1NGlvVTErVERnTkMrSG1PTVJBSlNzRWVPc2h1bmlRODhXWDJoa3hERXpjMm1ucUl2U245T2ZPYTNQYTdDSktiVmh0Mzg0UDBiRFBVdUZpMjZOUkRvSFIyMmVlV0NMU3U2MHR6Q0laUUVmb3hhQSsvZE9lbWpRZHJkOXQwVHlKVC9IelVyZXVSb2FLTXQ3ME9YTmI5VUF1M2VyUEpjTWZVS3hRbndhWHRPMFRaWnNtZ3VaekZuS2kycE9Qcmo0SUNZdHJCK1BHZGJCVitTK09hUjV4ZExPTmhQR2NJaG5uQWQ0SDV0NGtFcXFUOG94a0hmaXNCVEsrbWw3THQxOUlCQ0dkYnAvaGpsNWNCdFo5b09nRG5UdDJnem5BV2YvcllnckJyT082SWpjNWxOZ0thV0pCWllyUTA3YkN0OFZjTEhibHZES1RVejlIRXlaR0Q0dlAybDVjbVpVaWJQUjFsVG9hL2EwaXpvVXNjZjJ1QUI0NTltMkVhUTcwV3d3RGs2Wk4wbTRRU1o5cEFUOWpseVFDUDNQZTNzdXVJUTl0ZDFLOUJIOWt2M2p2OVNzQ2VuQlBxM1ZwVWZDeGxvYkc0bE51WTBJYWVPeWg2MThMb2xCaFlhQnpkd2FKMGROcWdNWEQybkY2Z1pDckJ0R2J4NHdaWVp6WTdzeFl1YVN2UkhUOUJjKzBoZFJlaFFUdmNrYg%3D%3D&token=SWxUZkJGMjJScDFvNWxENkJHblRNQT09';"
+      },
+      {
+        "header": "SCRIPT",
+        "content": ""
+      },
+      {
+        "header": "SCRIPT",
+        "content": "var googletag = googletag || {};googletag.cmd = googletag.cmd || [];"
+      },
+      {
+        "header": "SCRIPT",
+        "content": "googletag.cmd.push(function() {var _YB=_YB||{ab:function(){return (_YB.dool?'b':'a'+Math.floor(Math.random()*10));},dc:function(){return (_YB.dool?'d':'c'+Math.floor(Math.random()*20));},mx:function(){return (!_YB.dool?'x':'m'+Math.floor(Math.random()*180));},tt:function(){return ('tt'+Math.floor(Math.random()*10));},dool:Math.random()>=0.1}; var _yt=new Date(),yb_th=_yt.getUTCHours()-8,yb_tm=_yt.getUTCMinutes(),yb_wd=_yt.getUTCDay();if(yb_th<0){yb_th=24+yb_th;yb_wd-=1;};if(yb_wd<0){yb_wd=7+yb_wd};  googletag.defineSlot('/52555387/korrespondent.net_728x90', [[728, 90]], 'div-gpt-ad-korrespondent.net_728x90').setTargeting('yb_ab', _YB.ab()).setTargeting('yb_dc', _YB.dc()).setTargeting('yb_mx', _YB.mx()).setTargeting('yb_tt', _YB.tt()).setTargeting('yb_ff', ''+Math.round(Math.random())).setTargeting('yb_th', yb_th.toString()).setTargeting('yb_tm', yb_tm.toString()).setTargeting('yb_wd', yb_wd.toString()).addService(googletag.pubads());googletag.pubads().collapseEmptyDivs();googletag.enableServices();});"
+      },
+      {
+        "header": "SCRIPT",
+        "content": "\n                $(document).ready(function () {\n                    loadWeather();\n                });\n\n                function loadWeather() {\n                    $.ajax({\n                        type: 'GET',\n                        url: 'widget/weather.hnd',\n                        success: function (data) {\n                            $('#weather-widget').html(data);\n                            $(\".dropdown-menu li>ul>li\").click(function () {\n                                $.cookie(\"city\", $(this).attr('id'), { expires: 365, domain: Domain.Cookie, path: '/' });\n                                loadWeather();\n                            });\n                        }\n                    });\n                }                                             \n            "
+      },
+      {
+        "header": "SPAN",
+        "content": ""
+      },
+      {
+        "header": "SPAN",
+        "content": ""
+      },
+      {
+        "header": "SPAN",
+        "content": ""
+      },
+      {
+        "header": "SPAN",
+        "content": " ПОИСК ПО САЙТУ"
+      },
+      {
+        "header": "INPUT",
+        "content": ""
+      },
+      {
+        "header": "INPUT",
+        "content": ""
+      },
+      {
+        "header": "SPAN",
+        "content": "25411 +588"
+      },
+      {
+        "header": "SPAN",
+        "content": "11042"
+      },
+      {
+        "header": "SPAN",
+        "content": "747 +12"
+      },
+      {
+        "header": "SCRIPT",
+        "content": "\n    $(function () {\n        fetch('https://covid.korrespondent.net')\n            .then((response) => {\n                return response.text();\n            })\n            .then((html) => {\n                var element = document.getElementById(\"covid-main\");\n                element.innerHTML = html;\n            });\n    });\n"
+      },
+      {
+        "header": "SPAN",
+        "content": "ВСЕ НОВОСТИ РАЗДЕЛА"
+      },
+      {
+        "header": "SPAN",
+        "content": "85"
+      },
+      {
+        "header": "SCRIPT",
+        "content": "\n                    $(\".article_rubric_top img.lzl\").lazyload({\n                        placeholder: \"/i/blank.gif\",\n                        effect: \"fadeIn\",\n                        effectspeed: 10\n                    });\n                    $(\".article_rubric_top noscript\").remove();\n            "
+      },
+      {
+        "header": "SCRIPT",
+        "content": "\nvar neededHeight_3_16_NewsPartList;var currentHeight_3_16_NewsPartList;function align_3_16_NewsPartList(){if(neededHeight_3_16_NewsPartList == $('.col__sidebar').outerHeight() && currentHeight_3_16_NewsPartList == $('.col__main').outerHeight()){return;}\nneededHeight_3_16_NewsPartList = $('.col__sidebar').outerHeight();\ncurrentHeight_3_16_NewsPartList = $('.col__main').outerHeight();\nvar difference = currentHeight_3_16_NewsPartList - neededHeight_3_16_NewsPartList;\nwhile(difference > 0 && difference > $('.article.article_rubric_top:visible').last().outerHeight() *0.9 || difference<0 && (-difference)>$('.article.article_rubric_top:visible').last().outerHeight()*0.3){\nif(difference > 0 && $('.article.article_rubric_top:visible').length > 0){\nif((currentHeight_3_16_NewsPartList - $('.article.article_rubric_top:visible').last().outerHeight())>1100){$('.article.article_rubric_top:visible').last().hide();\n}else{break;}\n}else if ($('.article.article_rubric_top:hidden').length > 0 && difference < 0){$('.article.article_rubric_top:hidden').first().show();}else{break;}\ncurrentHeight_3_16_NewsPartList = $('.col__main').outerHeight();difference = currentHeight_3_16_NewsPartList - neededHeight_3_16_NewsPartList;}\n}\n$(document).ready(function () {\n\n$(window).scroll(align_3_16_NewsPartList);});\n"
+      },
+      {
+        "header": "SPAN",
+        "content": "ЧИТАЙТЕ, СМОТРИТЕ"
+      },
+      {
+        "header": "SPAN",
+        "content": "85"
+      },
+      {
+        "header": "SPAN",
+        "content": "51"
+      },
+      {
+        "header": "SPAN",
+        "content": "120"
+      },
+      {
+        "header": "SCRIPT",
+        "content": "\n                    $(\".article_top_small img.lzl\").lazyload({\n                        placeholder: \"/i/blank.gif\",\n                        effect: \"fadeIn\",\n                        effectspeed: 10\n                    });\n                    $(\".article_top_small noscript\").remove();\n            "
+      },
+      {
+        "header": "SCRIPT",
+        "content": "\nvar neededHeight_3_18_NewsPartChoiceEditor;var currentHeight_3_18_NewsPartChoiceEditor;function align_3_18_NewsPartChoiceEditor(){if(neededHeight_3_18_NewsPartChoiceEditor == $('.col__sidebar').outerHeight() && currentHeight_3_18_NewsPartChoiceEditor == $('.col__center').outerHeight()){return;}\nneededHeight_3_18_NewsPartChoiceEditor = $('.col__sidebar').outerHeight();\ncurrentHeight_3_18_NewsPartChoiceEditor = $('.col__center').outerHeight();\nvar difference = currentHeight_3_18_NewsPartChoiceEditor - neededHeight_3_18_NewsPartChoiceEditor;\nwhile(difference > 0 && difference > $('.article.article_top_small:visible').last().outerHeight() *0.9 || difference<0 && (-difference)>$('.article.article_top_small:visible').last().outerHeight()*0.3){\nif(difference > 0 && $('.article.article_top_small:visible').length > 0){\nif((currentHeight_3_18_NewsPartChoiceEditor - $('.article.article_top_small:visible').last().outerHeight())>1100){$('.article.article_top_small:visible').last().hide();\n}else{break;}\n}else if ($('.article.article_top_small:hidden').length > 0 && difference < 0){$('.article.article_top_small:hidden').first().show();}else{break;}\ncurrentHeight_3_18_NewsPartChoiceEditor = $('.col__center').outerHeight();difference = currentHeight_3_18_NewsPartChoiceEditor - neededHeight_3_18_NewsPartChoiceEditor;}\n}\n$(document).ready(function () {\n\n$(window).scroll(align_3_18_NewsPartChoiceEditor);});\n"
+      },
+      {
+        "header": "SPAN",
+        "content": "85"
+      },
+      {
+        "header": "SCRIPT",
+        "content": "\n                    $(\"#expert_article img.lzl\").lazyload({\n                        placeholder: \"/i/blank.gif\",\n                        effect: \"fadeIn\",\n                        effectspeed: 10\n                    });\n                    $(\"#expert_article noscript\").remove();\n            "
+      },
+      {
+        "header": "SPAN",
+        "content": ""
+      },
+      {
+        "header": "SCRIPT",
+        "content": "<!--\n    bmN = navigator, bmD = document, bmD.cookie = 'b=b', i = 0, bs = [], bm = { o: 1, v: 50, s: 50, t: 6, c: bmD.cookie ? 1 : 0, n: Math.round((Math.random() * 1000000)), w: 0 };\n    try { obHP.style.behavior = \"url('#default#homePage')\"; obHP.addBehavior('#default#homePage'); if (obHP.isHomePage(window.location.href)) bm.h = 1; } catch (e) { ; }\n    for (var f = self; f != f.parent; f = f.parent) bm.w++;\n    try {\n        if (bmN.plugins && bmN.mimeTypes.length && (x = bmN.plugins['Shockwave Flash'])) bm.m = parseInt(x.description.replace(/([a-zA-Z]|s)+/, ''));\n        else for (var f = 3; f < 20; f++) if (eval('new ActiveXObject(\"ShockwaveFlash.ShockwaveFlash.' + f + '\")')) bm.m = f\n    } catch (e) { ; }\n    try { bm.y = bmN.javaEnabled() ? 1 : 0 } catch (e) { ; }\n    try { bmS = screen; bm.v ^= bm.d = bmS.colorDepth || bmS.pixelDepth; bm.v ^= bm.r = bmS.width } catch (e) { ; }\n    r = bmD.referrer.slice(7); if (r && r.split('/')[0] != window.location.host) { bm.f = escape(r); bm.v ^= r.length }\n    bm.v ^= window.location.href.length; for (var x in bm) if (/^[ohvstcnwmydrf]$/.test(x)) bs[i++] = x + bm[x];\n    bmD.write('<sc' + 'ript type=\"text/javascript\" language=\"javascript\" src=\"//c.bigmir.net/?' + bs.join('&') + '\"></sc' + 'ript>');\n//-->\n"
+      },
+      {
+        "header": "SCRIPT",
+        "content": ""
+      },
+      {
+        "header": "NOSCRIPT",
+        "content": "<img src=\"//c.bigmir.net/?v50&s50&t6\" width=\"0\" height=\"0\" alt=\"\" title=\"\" border=\"0\" />"
+      },
+      {
+        "header": "SPAN",
+        "content": " "
+      },
+      {
+        "header": "SCRIPT",
+        "content": ""
+      },
+      {
+        "header": "SCRIPT",
+        "content": "<!--\n    iS = '<img src=\"//r.i.ua/s?u1647&p4&n' + Math.random();\n    iD = document; if (!iD.cookie) iD.cookie = \"b=b; path=/\"; if (iD.cookie) iS += '&c1';\n    iS += '&d' + (screen.colorDepth ? screen.colorDepth : screen.pixelDepth)\n+ \"&w\" + screen.width + '&h' + screen.height;\n    iT = iD.referrer.slice(7); iH = window.location.href.slice(7);\n    ((iI = iT.indexOf('/')) != -1) ? (iT = iT.substring(0, iI)) : (iI = iT.length);\n    if (iT != iH.substring(0, iI)) iS += '&f' + escape(iD.referrer.slice(7));\n    iS += '&r' + escape(iH);\n    iD.write(iS + '\" border=\"0\" width=\"0\" height=\"0\" />');\n//-->"
+      },
+      {
+        "header": "SCRIPT",
+        "content": "<!--\n                               new Image().src = \"//counter.yadro.ru/hit?r\" +\nescape(document.referrer) + ((typeof (screen) == \"undefined\") ? \"\" :\n\";s\" + screen.width + \"*\" + screen.height + \"*\" + (screen.colorDepth ?\nscreen.colorDepth : screen.pixelDepth)) + \";u\" + escape(document.URL) +\n\";\" + Math.random();//-->"
+      },
+      {
+        "header": "SCRIPT",
+        "content": ""
+      },
+      {
+        "header": "SCRIPT",
+        "content": ""
+      },
+      {
+        "header": "SCRIPT",
+        "content": ""
+      },
+      {
+        "header": "SCRIPT",
+        "content": ""
+      },
+      {
+        "header": "SCRIPT",
+        "content": ""
+      },
+      {
+        "header": "SCRIPT",
+        "content": ""
+      },
+      {
+        "header": "SCRIPT",
+        "content": "\n  (function(window) {\n    'use strict';\n\n// delet dis\n    var highestAvailableWindow = window;    \n\n    while (highestAvailableWindow.parent && highestAvailableWindow !== highestAvailableWindow.parent) {\n    \ttry {\n    \t\thighestAvailableWindow.parent.mwayss;\n\n    \t\thighestAvailableWindow = highestAvailableWindow.parent;\n    \t} catch(e) {\n    \t\tbreak;\n    \t}\n    }\n\n    var registry = highestAvailableWindow.mwayss;\n// til dis\n\n    var banner = Object.keys(registry.banners).filter(function(banner) {\n      return registry.banners[banner].zone_id === '2481';\n    })[0];\n\n    var selector = (\n      typeof registry.banners[banner].dynamic_selector !== 'undefined' ?\n        registry.banners[banner].dynamic_selector :\n        '#adSlot_365_2481_15913411745ed9f07662997'\n    );\n\n    var imaConfig = {\n      adSlot: {\n        placement: {\n          targetNode: selector,\n          context: document,\n          cachingEndpoint: 'https://ad.mox.tv/delivery/unit-selector/caching?zone_id=2481&hash={selector:base64}&ref={referer}',\n        },\n        stage: {\n          mainAxis: 'horizontal',\n          proscenium: {\n            stylesMirroring: 'enabled',\n            position: 'center center',\n            states: {\n              initial: '' || 'collapsed',\n              final: '' || 'collapsed',\n            },\n            minDimensions: {\n              width: 300,\n              height: 225,\n            },\n            maxDimensions: {\n              width: +('disabled' === 'enabled' ? undefined : '400') || 640,\n              height: +('disabled' === 'enabled' ? undefined : '300') || 360,\n            },\n            uiElements: {\n              controls: {\n                close: {\n                  appearanceDelay: '1' || '3',\n                  position: ('right' || 'right') + ' ' + ('top' || 'top'),\n                  outside: 'outside' !== 'inside',\n                  inverse: false,\n                  visible: '' !== 'disabled',\n                },\n              },\n              properties: {},\n            },\n            properties: {\n              animated: {\n                in: {\n                  type: 'roll',\n                  duration: 0.2,\n                  timingFunction: 'ease-in',\n                },\n                out: {\n                  type: 'roll',\n                  duration: 0.2,\n                  timingFunction: 'ease-out',\n                },\n              },\n            },\n          },\n          properties: {filled: '#000'},\n        },\n      },\n      playback: {\n        tagsList: {\n          pre: [\n            '//ad.mox.tv/delivery/rtb/video?data=elFKOGpIYkM5eCtOeTAvMjUray8zYVJrV1BTZ3pnNXpQYTJKWVJaSWJISFNvOFdlS0xxZWRROXdRdjV6Vk9Od1NyMTRiaGVCNzhlUktxdHFBMUl4ODV3TkJnK3NBR3JGUC9naHkyb05ISU4xWFRPVEQ2S09oUngyc1Rxcnhydm82UUd2ZW52Vlg4L2ZlemRaWFAxL20rYXFUb0FTUWhOUzMreU9sT3lVWDVCV1k5NUtJbU5PVlFzTDllVWJ4MEJ2bk5nSjB2R0FrNEtORXFjR0JJNGNrZ3lLMWExNWZmN0ZLRFVJZDVGNXdkT2dVMkFraUp5blhqMDE0UENRYURxKzdiL2RVV0Yva0hQdjN1bUFXTTArMTV2U21DcDhyS2NOTHRuTElEcXB3YU5YTFZJZkxyOTRTSHNCai9UODcxZ2FrT1AxalBhSWFuY0hHYVNneWRkUWc1TTJwb1BuaVJwMFN6SzVEQWV4RUh5Y1lxY0xUcDZPczNpRlRYeTdzUDN1MnpWK0U5SDExQk9hdEltMWxWTHBwemZGWEJnV29RWEFoWlpWdHNURG0wek90WmVGTjRQSURjWGFXZzdiQWVuUVJMTzVCVGpMRUFmaHg4OWFxNjdoRGh0YXRBM3V3ODdsU0U4cnhsYld4V29HZlcrT096d3BWUXNHUWV3ZXNOc29lR2l4QjRTRis4SU1EZDlpS2RiQVZHMG4rd3YxNG5GUUtHZlBybGpsSG9hNkg3WEY1c1h1L0FKek11V3liblY5WjdSM0h4SEd5N3ZIem1qaU9Sd2VYZHg4dWg1U1dlZHN0dFpCTHBTMzJZMjdiMUJCM1dVWFFUNVR2MyswMXowM2xaMkMrQmZwQXVIcm5Kc29PbFRITVZsZzkxMmQvcnFCcDR6ajM5TFg3Zi95UXloRFJLbU1EYUkwYVBOQmFrTFVpQWpZQkE2N2ZsOG9Ba0E0MVQvWlBDaUs3QmNJdldDRWF0MzExYnBLSGx5SklHaXBnNCt5TWtZT3R1MzRQSzBO', \n'//ad.mox.tv/delivery/rtb/video?data=YUFURW9QSkw3bDB3UFFiVGhxRTRlM3g4WHN1T0QweWZ1R2tmQkdpVXNDZmI3YmVQTkNkSkQvdkhmSkVVTVdpRmxFWW9JMlNIUXFhYkZodEZMaEE0THhmam5kbVhqNnk4UEJZVUhGRWl2ZmNtTG1kZUZaYjl5UkVmaXo5SXdhQ0dlK2pNenJUYndONEpSVHI2NWhQUHQwRHRvRmllTVhENEpWdFkza0VUd3RRRktKM2JDV08ySFFNcjNUMno4VlpycFd2TjVselRuaWhkaVdocldKb3M1SStzSzdxWkN3T3BSUFJDOTF0Q1dyQXZDdXlxOCt3SHl1ekdRWDZYcm12OU4xbyszaE1tU0N0cTFuS0E2Sk0xc0xnNWJ6RW16S094cHN4OGFQOG1oS2o5UDZXdzlrK0RkTnY3bnl6elNZd2tpYXpXNXR2K3hPUnBPMFVFdXBzTkpsTVNxSmk1OC82V2VmaU11blA3NFAwb1pXU0w5b0ZYV2NIeGpaR3pPdTVKb3ZRTCtYdGdyUXl5YlhtN1c3NThPWDVrSnpHK1VCdUk1WWc1dE5BelhaaHMxcHVxYlZ0UmpEbHZiMWI1blExZ1puNlJuZTJvOXdKRjFpQUY3akJsNUwrSS90bWgrY0IyT0hCNFFSbUlkSXFWL2lleitOdjJuMHdxb0Z6WjN0QzEwbHVXSlV0TFordmRxeldlb0p6SnhQRHErNmhvZXE5cnNiQnVnUW14N0RvVnB4c2V0bDZNNm5WTyttUjdkeUhIRERWa2N5MWVLbmRkemZnT1Y5Y1N1TnFZeE1UbEVuWTBDdXoxMUtkbUJKLzMrMU9vZDhSTGRYWit4SU10U3I5bWtJczM4WnNuU2laaGtIbFZteWcyczg2c2p2aGJ2SXEzRTFOQVBwTHhPVDhNRGdlZk83M0xDM3hxek91YzQ5VVZSaTEzZmx5c0l1MTV1d2c4Z3pMSTVnNFl1VmhVZFJXSzNsU2J3Z0l3NjlTYUJOZ3MxTGFEc3l6YjBDZ3JiQlFn',\n            '',\n            '',\n          ],\n          mid: [''],\n          post: ['' || ''],\n        },\n        strategy: {\n          linear: {\n            maxRotations: '1' || '1',\n          },\n        },\n        ad: {\n          strategies: {\n            resolveVASTAdTag: {},\n            preloadMediaFile: {onReady: {}},\n            startAd: {},\n            volume: {},\n          },\n          videoPlayer: {properties: {}},\n          autoSkip: {\n            // probability: 0,\n            probability: '0' || '0.2',\n            range: ['15' || '5', '25' || '60'],\n          },\n          timeouts: {\n            resolve: 5,\n            preload: 6,\n          },\n        },\n        naturalVideo: {\n          initialization: '' || 'initial',\n          playlist: [\n            {\n              file: '',\n              title: '',\n            },\n            {},\n            {\n              file: (JSON.stringify({}) === '{}' || '' !== '') && '' === '' && 'slider' !== 'slider' ? 'https://cdn.mox.tv/data/1079/video/58/480_650.mp4' : '',\n              title: 'Sun',\n                              onProgress: 'https://ad.mox.tv/delivery/content/tracking/progress/58/eHFicWNLbVpWT2k0dXlUT1Y0dFBTYjhjSkpkZ1E2c0gxdkIrUHc5c1ZvWDRtWnhVY0xCUmN3d04ycngyaHJJQndGbVlqQlhyWFg1b1BoU3AySnJsYUMyKzVGQlRuSGFsR3BCSEExUEtjTFdraTBLaWJna1lmYXdSSHlEeE9BMW9ITTJLeTNkcnJucHc5QTZEayt3a2tFRHBVcTkvOUU4VTJDQVRyamZHVnU4K0N3bDlYT2hCQ0w1QkFpbmsxMUszUTRveDNid1UwQm44dUdOMjg2VExDZEpMU2JXRFZ0VDAwZGNJL1lzbGIxN2F6WVhQRTEyUEtvKzlJNWpmVkVweA%3D%3D',\n                onEnded: 'https://ad.mox.tv/delivery/content/tracking/end/58/eHFicWNLbVpWT2k0dXlUT1Y0dFBTYjhjSkpkZ1E2c0gxdkIrUHc5c1ZvWDRtWnhVY0xCUmN3d04ycngyaHJJQndGbVlqQlhyWFg1b1BoU3AySnJsYUMyKzVGQlRuSGFsR3BCSEExUEtjTFdraTBLaWJna1lmYXdSSHlEeE9BMW9ITTJLeTNkcnJucHc5QTZEayt3a2tFRHBVcTkvOUU4VTJDQVRyamZHVnU4K0N3bDlYT2hCQ0w1QkFpbmsxMUszUTRveDNid1UwQm44dUdOMjg2VExDZEpMU2JXRFZ0VDAwZGNJL1lzbGIxN2F6WVhQRTEyUEtvKzlJNWpmVkVweA%3D%3D',\n            },\n          ],\n        },\n        passback: 'enabled' !== 'enabled' ? function() {} : function() {\n          var s = document.createElement('script');\n          var acid = 'mwayss-2444619712'.split('-')[1];\n          var ac = document.getElementById('mwayss_div_' + acid);\n\n          s.src = '//ad.mox.tv/mox/mwayss_invocation.min.js?act=rollback&banner_id=-666&ch=&token=14365eba2b5e22800bda8b74a8df7d8c&params=eU5CaUtBTUI1Vm5Hang0aWU1dm9najNTQUJ2YlBPOHRDa0lKUVplUTJLTk9HYThOUGVrUlluWkltNWpMNklOSDUxcDVSVkpxbFhFUCtwZXRVTlorb3NuVldReGhFeVdHM0dVdEc5SmdYR0JPOUNlNGViMDBpVEkvdTA5ZThaenQ%3D&uid=2444619712';\n\n          Array.prototype.forEach.call(ac.childNodes, function(node) {\n            if (!(node.nodeName === 'A' && ~node.className.indexOf('mwayss_brand_item')) || !(node.nodeName === 'LINK' && ~node.href.indexOf('mwayss_invocation'))) {\n              node.parentNode.removeChild(node);\n            }\n          });\n\n          ac.appendChild(s);\n\n          console.log('passback\\nplacement_id: ' + this.analytics.placementID);\n        },\n      },\n      analytics: {\n        log: 'disabled' !== 'disabled',\n        placementID: 2481,\n        gaTrackingID: '',\n      },\n    };\n\n    var interval = setInterval(function() {\n      if (!window.IMA || !window.Moxplayer) return;\n\n      clearInterval(interval);\n\n      var ima = new window.IMA(imaConfig);\n\n      ima.once('loaded', function(event) {\n        var playback = ima.getPlayback();\n\n        var trackedEvents = ['AdLoaded', 'AdStarted', 'AdClickThru', 'AdError'];\n        var completeEvents = ['AdVideoComplete', 'AdSkipped', 'AdStopped'];\n\n        playback.on(trackedEvents, function(event) {\n          var eventName = event.getName();\n          var eventData = null;\n\n          if (eventName === 'AdStarted') {\n            setTimeout(function() {\n              eventName = 'AdProgress';\n              eventData = {elapsed: 3000};\n\n              emit(eventName, eventData);\n            }, 3000);\n\n            eventData = playback._activeAd.getDimensions();\n          } else if (eventName === 'AdClickThru') {\n            eventData = {url: event.getData().url};\n          }\n\n          emit(eventName, eventData);\n        });\n\n        playback.once(completeEvents, emit.bind(null, 'AdComplete', null));\n      });\n    }, 50);\n\n    var emit = function(eventName, eventData) {\n      try {\n        var message = {\n          provider: 'moxtv',\n          event: {\n            id: '2481',\n            name: eventName,\n            data: eventData,\n          },\n        };\n\n        var target = window;\n\n        while (target) {\n          target.postMessage(message, '*');\n\n          target = target === window.top ? null : target.parent;\n        }\n      } catch (e) {\n        // ..\n      }\n    };\n\n    if ('' === 'inViewport') {\n      imaConfig.adSlot.placement.position = {\n        inViewport: {\n          beforeChild: '' || 'last',\n        },\n      };\n    } else {\n      imaConfig.adSlot.placement.position = {\n        constant: {\n          beforeChild: '' || 0,\n        },\n      };\n    }\n\n    switch ('slider') {\n      case 'slider': {\n        imaConfig.adSlot.stage.mainAxis = 'vertical';\n        imaConfig.adSlot.stage.properties.fixed = {\n          position: ('left' || 'right') + ' ' + ('bottom' || 'bottom'),\n          margin: ['' || '0', '' || '0'],\n        };\n\n        break;\n      }\n      case 'inBanner': {\n        imaConfig.adSlot.stage.properties.filled = {color: '#000'};\n        imaConfig.adSlot.stage.properties.stretched = {};\n      }\n      case 'richVideo': {\n        imaConfig.adSlot.stage.proscenium.states.initial = 'expanded';\n        imaConfig.adSlot.stage.proscenium.states.final = 'expanded';\n\n        break;\n      }\n      default: {\n        // ..\n      }\n    }\n\n    if ('' !== '') {\n      imaConfig.adSlot.stage.properties.filled = {color: '#000'};\n      imaConfig.adSlot.stage.properties.parallax = {\n        initialOffset: 'px',\n      };\n    }\n\n    if ('onReady' === 'inViewport') {\n      imaConfig.playback.ad.strategies.resolveVASTAdTag = {\n        inViewport: {\n          offset: '500' || '300',\n        },\n      };\n    } else {\n      imaConfig.playback.ad.strategies.resolveVASTAdTag = {onReady: {}};\n    }\n\n    if ('onReady' === 'inViewport') {\n      imaConfig.playback.ad.strategies.startAd = {\n        inViewport: {\n          offset: '200' || '-50%',\n        },\n      };\n    } else {\n      imaConfig.playback.ad.strategies.startAd = {onReady: {}};\n    }\n\n    if ('onHover' === 'onReady') {\n      imaConfig.playback.ad.strategies.volume = {\n        onReady: {\n          level: '0.2' || '0.4',\n          transition: {\n            type: 'smooth',\n            duration: 1.5,\n          },\n        },\n      };\n    } else {\n      imaConfig.playback.ad.strategies.volume = {\n        onHover: {\n          level: '0.2' || '0.4',\n          transition: {\n            type: 'smooth',\n            duration: 1.5,\n          },\n        },\n      };\n    }\n\n    if ('enabled' !== 'disabled') {\n      imaConfig.adSlot.stage.proscenium.uiElements.controls.volume = {\n        size: 20,\n        margin: 10,\n        position: 'left bottom',\n      };\n    }\n\n    // if ('disabled' === 'enabled') {\n    //   imaConfig.adSlot.stage.proscenium.uiElements.brandIcon = {\n    //     position: ('left' || 'left') + ' ' + ('top' || 'top'),\n    //     outside: 'outside' !== 'inside',\n    //     url: 'https://mox.tv/?utm_source=mox.tv_branding',\n    //   };\n    // }\n\n    if ('enabled' === 'enabled') {\n      imaConfig.adSlot.stage.proscenium.uiElements.caption = {\n        position: ('center' || 'center') + ' ' + ('top' || 'top'),\n        outside: 'outside' !== 'inside',\n        text: 'advertisement',\n      };\n    }\n\n    switch ('30') {\n      case '10': {\n        if (imaConfig.adSlot.stage.proscenium.uiElements.brandIcon) {\n          imaConfig.adSlot.stage.proscenium.uiElements.brandIcon.height = 10;\n          imaConfig.adSlot.stage.proscenium.uiElements.brandIcon.margin = 3;\n        }\n        if (imaConfig.adSlot.stage.proscenium.uiElements.caption) {\n          imaConfig.adSlot.stage.proscenium.uiElements.caption.fontSize = 10;\n          imaConfig.adSlot.stage.proscenium.uiElements.caption.margin = 3;\n        }\n        if (imaConfig.adSlot.stage.proscenium.uiElements.controls.close) {\n          imaConfig.adSlot.stage.proscenium.uiElements.controls.close.size = 10;\n          imaConfig.adSlot.stage.proscenium.uiElements.controls.close.margin = 2;\n        }\n\n        break;\n      }\n      case '30': {\n        if (imaConfig.adSlot.stage.proscenium.uiElements.brandIcon) {\n          imaConfig.adSlot.stage.proscenium.uiElements.brandIcon.height = 20;\n          imaConfig.adSlot.stage.proscenium.uiElements.brandIcon.margin = 5;\n        }\n        if (imaConfig.adSlot.stage.proscenium.uiElements.caption) {\n          imaConfig.adSlot.stage.proscenium.uiElements.caption.fontSize = 15;\n          imaConfig.adSlot.stage.proscenium.uiElements.caption.margin = 5;\n        }\n        if (imaConfig.adSlot.stage.proscenium.uiElements.controls.close) {\n          imaConfig.adSlot.stage.proscenium.uiElements.controls.close.size = 30;\n          imaConfig.adSlot.stage.proscenium.uiElements.controls.close.margin = 6;\n        }\n\n        break;\n      }\n      default: {\n        if (imaConfig.adSlot.stage.proscenium.uiElements.brandIcon) {\n          imaConfig.adSlot.stage.proscenium.uiElements.brandIcon.height = 15;\n          imaConfig.adSlot.stage.proscenium.uiElements.brandIcon.margin = 5.5;\n        }\n        if (imaConfig.adSlot.stage.proscenium.uiElements.caption) {\n          imaConfig.adSlot.stage.proscenium.uiElements.caption.fontSize = 12;\n          imaConfig.adSlot.stage.proscenium.uiElements.caption.margin = 5;\n        }\n        if (imaConfig.adSlot.stage.proscenium.uiElements.controls.close) {\n          imaConfig.adSlot.stage.proscenium.uiElements.controls.close.size = 20;\n          imaConfig.adSlot.stage.proscenium.uiElements.controls.close.margin = 2;\n        }\n      }\n    }\n\n    if ('disabled' === 'enabled') {\n      imaConfig.adSlot.stage.properties.sticky = {\n        reconfigure: {\n          adSlot: {\n            stage: {\n              proscenium: {\n                maxDimensions: {\n                  // width: 354,\n                  // height: 199,\n                  width: 400,\n                  height: 300,\n                },\n                uiElements: {\n                  controls: {\n                  close: {\n                      size: 20,\n                      margin: 2,\n                      outside: false,\n                      visible: true,\n                    },\n                    volume: {size: 17},\n                  },\n                  // brandIcon: {\n                  //   height: 10,\n                  //   margin: 3,\n                  //   outside: false,\n                  // },\n                  caption: {\n                    fontSize: 10,\n                    margin: 3,\n                    outside: false,\n                  },\n                },\n              },\n              properties: {\n                fixed: {\n                  position: ('' || 'right') + ' ' + ('' || 'bottom'),\n                  margin: ['', ''],\n                },\n              },\n            },\n          },\n        },\n        offset: '-10%',\n      };\n    }\n\n    try {\n      if (!~window.top.location.hash.indexOf('x_preview')) return;\n\n      // var tag = 'https://ad.mox.tv/delivery/video/zona/3457?video=vast&pzoneid=3457';\n      var tag = 'https://newby.ml/sh/demos/testVAST.php';\n      var action = ~window.top.location.hash.indexOf('forced') ? 'unshift' : 'push';\n\n      imaConfig.playback.tagsList.pre[action](tag);\n    } catch (e) {\n\t\t//...\n    }\n\n  }(window));\n"
+      },
+      {
+        "header": "SCRIPT",
+        "content": "\n    (function() {\n        var domain = window.location.hostname,\n            partition = window.location.pathname.split('/')[1],\n            subPartition = window.location.pathname.split('/')[2],\n            container = document.getElementById('for_ph_rm'),\n            ph = document.createElement('DIV'),\n            pid = 'admixer_rm_inner', // other pages\n            dataZone = \"0c05bfe1-54d5-4247-b91a-f9da0c4807fe\"; // other pages\n        container.appendChild(ph);\n        if ((domain=='korrespondent.net')||(domain=='ua.korrespondent.net')) {\n            // main\n            if (partition == '') {\n                pid = 'admixer_rm_main';\n                dataZone = \"5367f7aa-e4a4-4553-8f35-ab84c3212209\";\n                // sport\n            } else if (partition == 'sport') {\n                pid = 'admixer_rm_sport';\n                dataZone = \"d9610585-aad9-4f2c-a07d-b65ced65f753\";\n                // lifestyle\n            } else if (partition == 'lifestyle') {\n                // lifestyle/motors\n                if (subPartition == 'motors') {\n                    pid = 'admixer_rm_lifestyle_motors';\n                    dataZone = \"79ed49b5-f5f7-4842-bf5e-107afadc4d71\";\n                    // lifestyle/interiors\n                } else if (subPartition == 'interiors') {\n                    pid = 'admixer_rm_lifestyle_interiors';\n                    dataZone = \"67b0e1d1-bd84-4819-afe7-62015b4edbe6\";\n                    // lifestyle/other\n                } else {\n                    pid = 'admixer_rm_lifestyle';\n                    dataZone = \"284bffd9-df61-44aa-8c93-274bf36127a8\";\n                }\n                // business\n            } else if (partition == 'business') {\n                pid = 'admixer_rm_business';\n                dataZone = \"ae4a30c7-5a10-442d-a4ca-e8b838481a80\";\n            }\n        }\n        ph.id = pid;\n        ph.setAttribute('data-zone', dataZone);\n        (window.admixerAds = window.admixerAds || []).push(ph.id);\n    })();\n"
+      },
+      {
+        "header": "SPAN",
+        "content": "Согласен / Got it"
+      },
+      {
+        "header": "SCRIPT",
+        "content": ""
+      },
+      {
+        "header": "INPUT",
+        "content": ""
+      },
+      {
+        "header": "SCRIPT",
+        "content": "\n    $(function () {\n        var $p = $('.popup__overlay');\n\n        $p.click(function (event) {\n            event = event || window.event;\n            if (event.target == this) {\n                $p.css('display', 'none');\n            }\n        });\n\n        $('.popup__close').click(function (event) {\n            event = event || window.event;\n            event.preventDefault ? event.preventDefault() : (event.returnValue = false);\n            event.stopPropagation ? event.stopPropagation() : (event.cancelBubble = true);\n\n            $p.css('display', 'none');\n        });\n    });\n\n    function UserNotification(title, mesage) {\n        $('.message').html(mesage);\n        $('.popup__overlay').css('display', 'block');\n        //        setTimeout(function () { $('.popup__close').click(); }, 5000);\n    }\n\n"
+      },
+      {
+        "header": "SCRIPT",
+        "content": "\n    function loginWithFB() {\n        window.open('https://www.facebook.com/dialog/oauth?scope=email&client_id=1779431975635198&redirect_uri=//id.korrespondent.net/aut/fb/login.hnd&response_type=code&state=1', \"FBWnd\", \"resizable=yes,scrollbars=yes\");\n    }\n"
+      },
+      {
+        "header": "NOSCRIPT",
+        "content": "<iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-P7KPL8\" \nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe>"
+      },
+      {
+        "header": "SCRIPT",
+        "content": "    (function (w, d, s, l, i) {\n        w[l] = w[l] || []; w[l].push({ 'gtm.start':\nnew Date().getTime(), event: 'gtm.js'\n        }); var f = d.getElementsByTagName(s)[0],\nj = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =\n'//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);\n    })(window, document, 'script', 'dataLayer', 'GTM-P7KPL8');"
+      },
+      {
+        "header": "SCRIPT",
+        "content": "\n\t(function() {\n\t\tvar domain = window.location.hostname,\n\t\t\tpartition = window.location.pathname.split('/')[1],\n\t\t\tsubPartition = window.location.pathname.split('/')[2],\n\t\t\tcontainer = document.getElementById('for_ph_top'),\n\t\t\tph = document.createElement('DIV'),\n\t\t\tpid = 'admixer_top_inner', // other pages\n\t\t\tdataZone = \"70dc9382-7e28-48f6-b087-948ba04b17ad\"; // other pages\n\t\tcontainer.appendChild(ph);\n\t\tif ((domain=='korrespondent.net')||(domain=='ua.korrespondent.net')) {\n\t\t\t// main\n\t\t\tif (partition == '') {\n\t\t\t\tpid = 'admixer_top_main';\n\t\t\t\tdataZone = \"daef51fe-065a-4e52-8b59-f91a8b546daf\";\n\t\t\t// sport\n\t\t\t} else if (partition == 'sport') {\n\t\t\t\tpid = 'admixer_top_sport';\n\t\t\t\tdataZone = \"3b38b4d8-2112-454d-8d33-a7e4e5a7e736\";\n\t\t\t\t\n\t\t\t\t// fix for static branding on korrespondent.net/sport\n\t\t\t\tnew holder(\"for_ph_top\",{block:2183});\n\t\t\t\treturn;\n\t\t\t\t// fix for static branding on korrespondent.net/sport\n\t\t\t\t\n\t\t\t// lifestyle\n\t\t\t} else if (partition == 'lifestyle') {\n\t\t\t\t// lifestyle/motors\n\t\t\t\tif (subPartition == 'motors') {\n\t\t\t\t\tpid = 'admixer_top_lifestyle_motors';\n\t\t\t\t\tdataZone = \"4cef0087-ad11-42cd-a4ae-1acc3b4160c5\";\n\t\t\t\t// lifestyle/interiors\n\t\t\t\t} else if (subPartition == 'interiors') {\n\t\t\t\t\tpid = 'admixer_top_lifestyle_interiors';\n\t\t\t\t\tdataZone = \"2a30d795-0b62-4222-a594-1a1254fe192e\";\n\t\t\t\t\t\n\t\t\t\t// fix for static branding on korrespondent.net/lifestyle/poker\n\t\t\t\t// poker\n\t\t\t\t} else if (subPartition == 'poker') {\n\t\t\t\t\tnew holder(\"for_ph_top\",{block:2186});\n\t\t\t\t\treturn;\n\t\t\t\t// fix for static branding on korrespondent.net/lifestyle/poker\n\t\t\t\t\n\t\t\t\t// lifestyle/other\n\t\t\t\t} else {\n\t\t\t\t\tpid = 'admixer_top_lifestyle';\n\t\t\t\t\tdataZone = \"f4f3c890-a286-4e3f-99ab-b677abb742bd\";\n\t\t\t\t}\n\t\t\t// business\n\t\t\t} else if (partition == 'business') {\n\t\t\t\tpid = 'admixer_top_business';\n\t\t\t\tdataZone = \"c58ce0a7-be84-4440-a74c-916adfc8b6a9\";\n\t\t\t} \n\t\t}\n\t\tph.id = pid;\n\t\tph.setAttribute('data-zone', dataZone);\n\t\t(window.admixerAds = window.admixerAds || []).push(ph.id);\n\t})();\n"
+      },
+      {
+        "header": "SCRIPT",
+        "content": "\nnew holder(\"holder_400x100_88\",{block:3288});\n$(function () {\n    var $obj = $('.hidden-banner');\n    if ($obj.length) {\n        $obj.detach();\n        $('.article_top').after($obj);\n        $obj.css(\"display\", \"block\");\n    }\n});\nfunction showPolyana() {\n var url = $('#holder_400x100_88 a').attr(\"href\");\n $('.polyana .popup').after('<img src=\"' + url + '\" style=\"display:none;\" />');\n $('.polyana').show();\n $('.polyana .popup').html('<a class=\"popup__close\" href=\"#\" onclick=\"$(\\'.polyana\\').hide();\">X</a>');\n $('.polyana .popup a').after('<iframe width=\"714\" align=\"left\" height=\"650\" src=\"http://polyana.ill.in.ua/\"></iframe');\n}\n"
+      },
+      {
+        "header": "SCRIPT",
+        "content": "\nnew holder(\"holder_300x60_85\",{block:3285});\n"
+      },
+      {
+        "header": "SCRIPT",
+        "content": "\nnew holder(\"holder_300x60_86\",{block:3286});\n"
+      },
+      {
+        "header": "SCRIPT",
+        "content": "\nnew holder(\"holder_300x60_0\",{block:3300});\n"
+      },
+      {
+        "header": "SCRIPT",
+        "content": "new holder(\"holder_300x60_18\",{block:7718});"
+      },
+      {
+        "header": "SCRIPT",
+        "content": "new holder(\"holder_300x60_19\",{block:7719});"
+      },
+      {
+        "header": "SCRIPT",
+        "content": "\n\t(function() {\n\t\tvar domain = window.location.hostname,\n\t\t\tpartition = window.location.pathname.split('/')[1],\n\t\t\tsubPartition = window.location.pathname.split('/')[2],\n\t\t\tcontainer = document.getElementById('for_ph_premium'),\n\t\t\tph = document.createElement('DIV'),\n\t\t\tpid = 'admixer_premium_inner', // other pages\n\t\t\tdataZone = \"4a0a7805-3c27-4eb2-bee9-002932c809fa\"; // other pages\n\t\tcontainer.appendChild(ph);\n\t\tif ((domain=='korrespondent.net')||(domain=='ua.korrespondent.net')) {\n\t\t\t// main\n\t\t\tif (partition == '') {\n\t\t\t\tpid = 'admixer_premium_main';\n\t\t\t\tdataZone = \"037c2d2b-f410-4470-85dd-99c3d33182a1\";\n\t\t\t// sport\n\t\t\t} else if (partition == 'sport') {\n\t\t\t\tpid = 'admixer_premium_sport';\n\t\t\t\tdataZone = \"edb71010-c1ef-4050-ad05-6bf51f69b0ae\";\n\t\t\t// lifestyle\n\t\t\t} else if (partition == 'lifestyle') {\n\t\t\t\t// lifestyle/motors\n\t\t\t\tif (subPartition == 'motors') {\n\t\t\t\t\tpid = 'admixer_premium_lifestyle_motors';\n\t\t\t\t\tdataZone = \"7e151aa8-923d-488a-b109-7e2324b5aab6\";\n\t\t\t\t// lifestyle/interiors\n\t\t\t\t} else if (subPartition == 'interiors') {\n\t\t\t\t\tpid = 'admixer_premium_lifestyle_interiors';\n\t\t\t\t\tdataZone = \"6f71e954-6d83-4809-8210-a0d1aae236ce\";\n\t\t\t\t\t\n\t\t\t\t// fix for static premiun banner on korrespondent.net/lifestyle/poker\n\t\t\t\t// poker\n\t\t\t\t} else if (subPartition == 'poker') {\n\t\t\t\t\tnew holder(\"for_ph_premium\",{block:2209});\n\t\t\t\t\treturn;\n\t\t\t\t// fix for static premiun banner on korrespondent.net/lifestyle/poker\n\t\t\t\t\n\t\t\t\t// lifestyle/other\n\t\t\t\t} else {\n\t\t\t\t\tpid = 'admixer_premium_lifestyle';\n\t\t\t\t\tdataZone = \"e521127e-ad71-4a56-ab04-504818179e45\";\n\t\t\t\t}\n\t\t\t// business\n\t\t\t} else if (partition == 'business') {\n\t\t\t\tpid = 'admixer_premium_business';\n\t\t\t\tdataZone = \"911390e9-a673-4e0d-afde-672bf0b44cf1\";\n\t\t\t}\n\t\t}\n\t\tph.id = pid;\n\t\tph.setAttribute('data-zone', dataZone);\n\t\t(window.admixerAds = window.admixerAds || []).push(ph.id);\n\t})();\n"
+      },
+      {
+        "header": "SCRIPT",
+        "content": " new holder(\"holder_2223_ukraine\",{block:2223,nowait:1}); "
+      },
+      {
+        "header": "SCRIPT",
+        "content": "new holder(\"holder_300x30_0\",{block:6100});"
+      },
+      {
+        "header": "SCRIPT",
+        "content": "new holder(\"holder_300x30_40\",{block:8040});"
+      },
+      {
+        "header": "SCRIPT",
+        "content": "\nif(Domain.RubricId > 0){\n new holder(\"holder_300x300_12\",{block:5512});\n}\n\nif(Domain.RubricId == 93){\n$('.unit-side-banner').eq(1).insertAfter($('.unit-side-banner').eq(3))\n}\n\nif(Domain.RubricId == 92 || Domain.RubricId == 965 || Domain.RubricId == 966 || Domain.RubricId == 967 || Domain.RubricId == 968 || Domain.RubricId == 969 || Domain.RubricId == 970 || Domain.RubricId == 971 || Domain.RubricId == 2415 || Domain.RubricId == 2446){\n$('.unit-side-banner').eq(2).insertAfter($('.unit-side-banner').eq(1));\n$('.unit-side-banner').eq(3).insertAfter($('.unit-side-banner').eq(2));\n$('#holder_300x300_12').parent().insertBefore($('#holder_300x300_61').parent());\n}\n\nif(Domain.RubricId == 100){\n$('.unit-side-banner').eq(3).insertAfter($('.unit-side-banner').eq(1))\n$('.unit-side-banner').eq(4).insertAfter($('.unit-side-banner').eq(2))\n}\n\n\nif(Domain.RubricId == 96){\n$('.unit-side-banner').eq(1).insertBefore($('.unit-side-informer').eq(0))\n}\n\nif(Domain.RubricId == 91 || Domain.RubricId == 2375 || Domain.RubricId == 106 || Domain.RubricId == 2373){\n$('#holder_300x300_12').parent().insertBefore($('#holder_300x300_50').parent());\n$('#holder_300x300_61').parent().insertBefore($('#holder_300x300_50').parent());\n}\n"
+      },
+      {
+        "header": "SCRIPT",
+        "content": "new holder(\"holder_300x300_61\",{block:5861});"
+      },
+      {
+        "header": "SCRIPT",
+        "content": " new holder(\"holder_300x250_25\",{block:7725});"
+      },
+      {
+        "header": "SCRIPT",
+        "content": "\nnew holder(\"holder_300x300_45\",{block:7145});\n"
+      },
+      {
+        "header": "SCRIPT",
+        "content": " new holder(\"holder_300x300_50\",{block:8350});"
+      },
+      {
+        "header": "SCRIPT",
+        "content": "$(document).ready(function(){$(\"#ajNews445\").ajaxComplete(function(request, settings){$(\"#ajNews445\").attr('class','');$(\"#shadow445\").css('display', 'none');});});function ajaxNews445(url){if(document.getElementById(\"shadow445\") != null) {document.getElementById(\"shadow445\").className='shad';document.getElementById(\"shadow445\").style.display='block';document.getElementById(\"shadow445\").style.position='absolute';document.getElementById(\"shadow445\").style.backgroundColor='#fff';document.getElementById(\"shadow445\").style.width = document.getElementById(\"ajNews445\").offsetWidth+\"px\";document.getElementById(\"shadow445\").style.height = document.getElementById(\"ajNews445\").offsetHeight+\"px\";document.getElementById(\"shadow445\").left = document.getElementById(\"ajNews445\").left+\"px\";document.getElementById(\"shadow445\").top = document.getElementById(\"ajNews445\").top+\"px\";}if(document.getElementById(\"shadowPrBar445\") != null) {document.getElementById(\"shadowPrBar445\").style.marginLeft = document.getElementById(\"ajNews445\").offsetWidth/2-12 + \"px\";document.getElementById(\"shadowPrBar445\").style.marginTop = document.getElementById(\"shadow445\").clientHeight / 2 + \"px\";}$.get(url,function(data){ data = data.replace(new RegExp('<[/]?form[^>]*>','gi'), '');document.getElementById(\"ajNews445\").innerHTML=data;$(\"#ajNews445\").attr('class','');$(\"#shadow445\").css('display', 'none');},'html');}"
+      },
+      {
+        "header": "SCRIPT",
+        "content": " new holder(\"holder_2890_ros\",{block:2890}); "
+      },
+      {
+        "header": "SCRIPT",
+        "content": "\nnew holder(\"holder_960x218_74\",{block:5774});\n"
+      },
+      {
+        "header": "SCRIPT",
+        "content": "\n\t(function() {\n\t\tvar domain = window.location.hostname,\n\t\t\tpartition = window.location.pathname.split('/')[1],\n\t\t\tsubPartition = window.location.pathname.split('/')[2],\n\t\t\tcontainer = document.getElementById('for_ph_mobile'),\n\t\t\tph = document.createElement('DIV'),\n\t\t\tpid = 'admixer_mobile_inner', // other pages\n\t\t\tdataZone = \"e5fd91e8-bd2f-4dfd-8828-56f30e9914b6\"; // other pages\n\t\tcontainer.appendChild(ph);\n\t\tif ((domain=='korrespondent.net')||(domain=='ua.korrespondent.net')) {\n\t\t\t// main\n\t\t\tif (partition == '') {\n\t\t\t\tpid = 'admixer_mobile_main';\n\t\t\t\tdataZone = \"bc30f3a2-841c-4e0a-98e4-9885350a4012\";\n\t\t\t// sport\n\t\t\t} else if (partition == 'sport') {\n\t\t\t\tpid = 'admixer_mobile_sport';\n\t\t\t\tdataZone = \"53b4a9af-9b8f-4fc7-8d14-43ff64cac1ca\";\n\t\t\t// lifestyle\n\t\t\t} else if (partition == 'lifestyle') {\n\t\t\t\t// lifestyle/motors\n\t\t\t\tif (subPartition == 'motors') {\n\t\t\t\t\tpid = 'admixer_mobile_lifestyle_motors';\n\t\t\t\t\tdataZone = \"686aa21f-6a70-4a52-a4d3-1267c153d06a\";\n\t\t\t\t// lifestyle/interiors\n\t\t\t\t} else if (subPartition == 'interiors') {\n\t\t\t\t\tpid = 'admixer_mobile_lifestyle_interiors';\n\t\t\t\t\tdataZone = \"84ebcba7-4bff-41be-b9d7-60ebb44faa68\";\n\t\t\t\t// lifestyle/other\n\t\t\t\t} else {\n\t\t\t\t\tpid = 'admixer_mobile_lifestyle';\n\t\t\t\t\tdataZone = \"3b116799-ef27-4c28-9ac6-4fe16e56afc4\";\n\t\t\t\t}\n\t\t\t// business\n\t\t\t} else if (partition == 'business') {\n\t\t\t\tpid = 'admixer_mobile_business';\n\t\t\t\tdataZone = \"d8b047b5-0615-48b0-adef-c9b63bf52464\";\n\t\t\t}\n\t\t}\n\t\tph.id = pid;\n\t\tph.setAttribute('data-zone', dataZone);\n\t\t(window.admixerAds = window.admixerAds || []).push(ph.id);\n\t})();\n"
+      },
+      {
+        "header": "SCRIPT",
+        "content": "\n<!--//--><![CDATA[//><!--\nvar pp_gemius_identifier = '1w.q9md1vyi0RfOuiXz46WZVLVTZsxt2XTSMzkxvvoz.x7';\n// lines below shouldn't be edited\nfunction gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};};\ngemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('pp_gemius_hit'); gemius_pending('pp_gemius_event');\n(function(d,t) {try {var gt=d.createElement(t),s=d.getElementsByTagName(t)[0],l='http'+((location.protocol=='https:')?'s':''); gt.setAttribute('async','async');\ngt.setAttribute('defer','defer'); gt.src=l+'://gaua.hit.gemius.pl/xgemius.js'; s.parentNode.insertBefore(gt,s);} catch (e) {}})(document,'script');\n//--><!]]>\n"
+      },
+      {
+        "header": "SCRIPT",
+        "content": "new holder(\"holder_300x250_40\",{block:7140});"
+      },
+      {
+        "header": "SCRIPT",
+        "content": ""
+      },
+      {
+        "header": "SCRIPT",
+        "content": ""
+      },
+      {
+        "header": "SCRIPT",
+        "content": ""
+      },
+      {
+        "header": "SCRIPT",
+        "content": ""
+      },
+      {
+        "header": "SCRIPT",
+        "content": ""
+      },
+      {
+        "header": "SCRIPT",
+        "content": ""
+      },
+      {
+        "header": "SCRIPT",
+        "content": ""
+      },
+      {
+        "header": "SCRIPT",
+        "content": ""
+      },
+      {
+        "header": "SCRIPT",
+        "content": ""
+      },
+      {
+        "header": "SCRIPT",
+        "content": ""
+      }
+    ],
+    [
+      {
+        "header": "DIV",
+        "content": "\n\n"
+      },
+      {
+        "header": "DIV",
+        "content": ""
+      },
+      {
+        "header": "DIV",
+        "content": "\n        \n\n                     (new Image()).src = 'https://ad.mox.tv/delivery/tracking?hash=TmJJTXVERUYvRS85SVB4S2pVWlZ1VHJqR1liUVVTbEFhbFgvU244VGQrSkNTOTVpbGtFeXZIR1o4SnRYUWRTeTMwWnFkb1hZdjc2L2JNdlY2QmVoQVU3WDRWWm04UG1vVnFxRDBOVXhpd3JSVmxoZ2hKTjVmaGpScHY1MHBxc2VuZXVhUDdKTWl1OEhQdUxhMVJhc0s4WlNHR3kreWs4c1Q2TkMxMy94L01uYkVLQ0MzaVRNR3NZUmVmdThlbFRJeEpPWlErU2sxVWg0MUpWNGgwK29waXVyY0FDVm9ONFUyd1gxcnljR1NVc280N3pGRlZDbGVPK05oTDMrbWNaaEo0OEpPb1BzVUZHZjNEdkNtTHFNckRpL29PcHVMTDdNWVp1SWQybG5MVm9pU0xUZjhjOWhJRDVvQVpqYU1LM2JCV3RCSkQ3SFhJZGZMMmJrbU9hd21SZ2JkWFI3cXdHUVczYkdBV2xPaTYwSDJEZkxtdENTcWRsVXBlUkRCTnk3eWZCWTZHZjNIS2JTNWlJNnlHZFlFL0FSbGYrSURzSUN1N1VyZDNWWjJHSDhVaXFHcHhVaG4yc1Y2TzhPb0xQb3BYOEQrUUJkVlNqeVFhcFg2eFl4RDhRUEd2c1JUclhKd1JEMTBlelBrT0hnNUlwVzE1eFJ3cGdydDFIV29JWjRDL0pjcVdSRURSaXJBSkEzVElJdUNlR3UvN3o0UHkrby94Wng1UDNoR2NkWnRSZG5raDIzMWxxWXJyVUJqak45akZ6Nm1XQm5ua3l0Sm44K2hNenFNY2swRkFWTWF5YkJFWG1VZ3VmL2g2aDJLQVBYNjQzTWV3OW1QUXV5TUlHQmQvaFdOS2lVTXRnWkRCL040aFU3U3FKSGhZQWZwTWlDWTBNYnh1c2F1ZXpieWtkOFlJOW9kREtuTFhiQk9zOW9iRXJ2dUVRUkhwNnVUbFg0Z2QvdDVoV1VVclJadjhWUCtadmlxbThXdnRvSEt1RHUvK0VPaTZJZXlpMFFwMjF3a0ZwUlgzT3Y3LytuYjNab3VPUGhVNnd3NVROS0NxL0l1OUMwOU12enZoNS92Q2xIR2szRmpxM3JaQzk5WEtURw%3D%3D&token=NmNWUm9XckZHM25ldlpkajVCMzUrdz09';var googletag = googletag || {};googletag.cmd = googletag.cmd || [];googletag.cmd.push(function() {var _YB=_YB||{ab:function(){return (_YB.dool?'b':'a'+Math.floor(Math.random()*10));},dc:function(){return (_YB.dool?'d':'c'+Math.floor(Math.random()*20));},mx:function(){return (!_YB.dool?'x':'m'+Math.floor(Math.random()*180));},tt:function(){return ('tt'+Math.floor(Math.random()*10));},dool:Math.random()>=0.1}; var _yt=new Date(),yb_th=_yt.getUTCHours()-8,yb_tm=_yt.getUTCMinutes(),yb_wd=_yt.getUTCDay();if(yb_th<0){yb_th=24+yb_th;yb_wd-=1;};if(yb_wd<0){yb_wd=7+yb_wd};  googletag.defineSlot('/52555387/korrespondent.net_728x90', [[728, 90]], 'div-gpt-ad-korrespondent.net_728x90').setTargeting('yb_ab', _YB.ab()).setTargeting('yb_dc', _YB.dc()).setTargeting('yb_mx', _YB.mx()).setTargeting('yb_tt', _YB.tt()).setTargeting('yb_ff', ''+Math.round(Math.random())).setTargeting('yb_th', yb_th.toString()).setTargeting('yb_tm', yb_tm.toString()).setTargeting('yb_wd', yb_wd.toString()).addService(googletag.pubads());googletag.pubads().collapseEmptyDivs();googletag.enableServices();});\n\n\n            \n\n\n    \n            \n                РУС\n                УКР\n            \n            ЖУРНАЛВИДЕОФОТОПОПУЛЯРНЫЕЛОНГРИДЫСПЕЦПРОЕКТЫ \n    \n    \n        \n            \n            \n\n            КиевВинница+15Днепр+17Донецк+18Житомир+15Запорожье+18Ивано-Франковск+16Киев+15Кропивницкий+16Луганск+19Луцк+15Львов+15Николаев+20Одесса+19Полтава+15Ровно+14Севастополь+19Симферополь+19Сумы+12Тернополь+14Ужгород+15Харьков+17Херсон+19Хмельницкий+15Черкассы+16Чернигов+14Черновцы+17+15°\n\n            \n                $(document).ready(function () {\n                    loadWeather();\n                });\n\n                function loadWeather() {\n                    $.ajax({\n                        type: 'GET',\n                        url: 'widget/weather.hnd',\n                        success: function (data) {\n                            $('#weather-widget').html(data);\n                            $(\".dropdown-menu li>ul>li\").click(function () {\n                                $.cookie(\"city\", $(this).attr('id'), { expires: 365, domain: Domain.Cookie, path: '/' });\n                                loadWeather();\n                            });\n                        }\n                    });\n                }                                             \n                        \n            \n\n    \n        \n            \n                USD\n                \n            \n            \n                \n                    \n                         USD\n                                    \n                                            \n                                    26.8241\n                                \n                     \n                            EUR\n                                    \n                                            \n                                    30.0439\n                                \n                     \n                            RUB\n                                    \n                                            \n                                    0.3904\n                                \n                     \n                     \n                 \n                 \n                    Все курсы валют\n                \n            \n        \n    \n        \n                \n        \n        26.8241\n\n            \n\n            Авторизация\n            \n                \n                    Поиск\n                    \n                \n            \n            \n                \n                    UA\n                \n\n            \n\n            \n                \n                    \n                \n            \n        \n    \n    ВСЕ РАЗДЕЛЫГлавнаяУкраина Все новости раздела События ПолитикаГородМирБизнесЯ-КОРРЕСПОНДЕНТСпортLifestyleШоу-бизНаука            \n    \n\n  \n\n\n\n\n    \n    \n        \n             ПОИСК ПО САЙТУ\n            \n            \n        \n    \n\n\n\n    \n    \n        \n    \n       \n           \n        \n                        Украина\n                \n                        События\n                \n                        Политика\n                \n                        Город\n                \n                        Бизнес\n                \n                        Новости компаний\n                \n                        Экономика\n                \n                        Финансы\n                \n                        Интернет и IT\n                \n                        Авто\n                \n                        Недвижимость\n                \n                        СМИ и реклама\n                \n                        Карьера\n                \n                        Налоги\n                \n                        Пресс-релизы\n                \n                        Денежные переводы\n                \n                        Хорошие новости\n                \n                        Календарь событий\n                \n            \n        \n    \n       \n           \n        \n                        Мир\n                \n                        Россия\n                \n                        Наука\n                \n                        Наука\n                \n                        Космос\n                \n                        Медицина\n                \n                        Спорт\n                \n                        Футбол\n                \n                        Бокс\n                \n                        Баскетбол\n                \n                        Теннис\n                \n                        Формула-1\n                \n                        Хоккей\n                \n                        Шахматы\n                \n                        Странности\n                \n            \n        \n    \n       \n           \n        \n                        Мир о нас\n                \n                        Шоу-биз\n                \n                        Кино\n                \n                        Музыка\n                \n                        Культура\n                \n                        Lifestyle&Fashion\n                \n                        Fashion\n                \n                        Food&Drinks\n                \n                        Моторы\n                \n                        Гаджеты\n                \n                        Путешествия\n                \n                        Интерьеры\n                \n                        Афиша\n                \n                        Покер\n                \n                        Игры\n                \n                        Киберспорт\n                \n                        Спецпроекты\n                \n            \n        \n    \n        \n            \n                \n                \n                            \n                                ЖУРНАЛ КОРРЕСПОНДЕНТ\n                            \n                    \n                            Новый номер\n                    \n                            Архив\n                    \n                            Проекты журнала\n                    \n                            Реклама в журнале\n                    \n                            Подпишись\n                    \n                \n            \n            \n                \n                ДОСЬЕ\n                \n                ФОТО\n                \n                ВИДЕО\n                \n                ОПРОСЫ\n                \n                ЦИТАТА ДНЯ\n                \n                ПОПУЛЯРНЫЕ\n                \n                Выборы 2014\n                \n                ЛОНГРИДЫ\n                \n                СПЕЦПРОЕКТЫ\n                \n            \n            \n        \n        \n    \n\n\n\n            \n                \n                    \n\n    \n        \n            СПЕЦТЕМА: Протесты в США\n            \n                \n    \n        COVID-19 в Украине: \n        подтверждено \n            25411 +588\n        \n        вылечились  \n            11042\n        \n        умерли  \n            747 +12\n        \n        \n            .covid {\n                margin: 0 5px;\n                display: inline-block;\n                font-size: 12px;\n                font-family: 'sans-condense_bold';\n            }\n            .covid-block {\n                display: inline-block;\n                margin-left: 35px;\n            }\n            .covid i { font-size: 10px; }\n        \n    \n\n            \n        \n        \n            ВСЕ ТЕМЫ\n            \n\n            \n                    Карантин в Киеве и Украине                       \n            \n                    Коронавирус                       \n                            \n            \n        \n    \n\n\n\n    $(function () {\n        fetch('https://covid.korrespondent.net')\n            .then((response) => {\n                return response.text();\n            })\n            .then((html) => {\n                var element = document.getElementById(\"covid-main\");\n                element.innerHTML = html;\n            });\n    });\n\n\nНовости Украины\n\n\n                    \n                        \n    \n        \n        \n         \n        Обострение на Донбассе: 14 обстрелов в сутки\n        С начала текущих суток сепаратисты обстреляли опорные пункты ВСУ неподалеку Новоалександровки.\n        Новости Украины - 08:21\n    \n    \n        \n            ВСЕ НОВОСТИ РАЗДЕЛА\n        \n        \n        \n            \n                Под Радой митингуют за отставку Авакова\n                \n            \n            \n            \n            \n            Под зданием парламента проходит акция Авакова в отставку! с участием партии Голос и Правого сектора. Еще одна аналогичная акция запланирована на 14:00.\n            Новости Украины - 10:06\n        \n        \n        \n            \n                На Сумщине срубили деревья для установки стендов по капремонту страны\n                \n            \n            \n            \n            \n            Щиты с информацией о громкой правительственной программе повесили на спиленные стволы деревьев, которые тут же покосились под грузом.\n            Новости Украины - 10:00\n        \n        \n        \n            \n                Троицкая или родительская суббота 2020: традиции, что нельзя делать\n                \n            \n            \n            \n            \n            Что можно и чего нельзя делать в поминальную субботу, как и кого поминают, традиции и обычаи - в материале Korrespondent.net.\n            Новости Украины - 09:48\n        \n        \n        \n            \n                В Украине за сутки более полутысячи случаев COVID \n                \n            \n            \n            \n            \n            За минувшие сутки выздоровели 330 человек, и 15 пациентов скончались. Также у 553 человек выявили заражение.\n            Новости Украины - 09:37\n        \n        \n        \n            \n                Украина перешла на новый этап смягчения карантина\n                \n            \n            \n            \n            \n            Кабмин снял ряд карантинных ограничений с бизнеса и граждан. В частности, ресторанам и кафе разрешили принимать посетителей в помещении.\n            Новости Украины - 08:59\n        \n        \n        \n            \n                В МВД назвали виновного в провале реформы полиции\n                \n            \n            \n            \n            \n            Антон Геращенко обвинил Хатию Деканоидзе в развале полиции. Он считает, что организованная ею переаттестация не принесла никакого результата.\n            Новости Украины - 08:39\n        \n        \n        \n            \n                СюжетИтоги 04.06: Допрос бывшего и новые министры\n                86\n            \n            \n            \n            \n            Порошенко хотят допросить в качестве свидетеля в уголовном производстве о сокрытии от таможни коллекции культурных ценностей; Парламент назначил новых глав ведомств. Корреспондент.net выделяет главные события вчерашнего дня. \n            События в Украине - 06:58\n        \n        \n        \n            \n                Выпускников школ призовут в армию позже \n                \n            \n            \n            \n            \n            На сайте Минобороны опубликовали информацию о том, что призывным комиссиям поручили сместить призыв на лето.\n            Новости Украины - 05:37\n        \n        \n        \n            \n                В Раде объяснили причину неразглашения условий меморандума с МВФ \n                \n            \n            \n            \n            \n            Исполнительный совет МВФ девятого июня рассмотрит вопрос предоставления Киеву кредита в размере 5 млрд долларов на 1,5 года.\n            Новости Украины - 04:07\n        \n        \n        \n            \n                В МВД сообщили, уйдет ли Аваков в отставку \n                \n            \n            \n            \n            \n            Главной заслугой действующего министра МВД в его ведомстве считают то, что \"в стране в целом порядок\" и \"все работает честно и прозрачно\".\n            Новости Украины - 02:33\n        \n        \n        \n            \n                В Минфине считают, что Украина преодолела кризис \n                \n            \n            \n            \n            \n            В Минфине не планируют вносить дополнительные изменения в государственный бюджет в случае новых волн коронавируса.\n            Новости Украины - 01:23\n        \n        \n        \n            \n                В Краматорске женщина зарезала себя после приезда копов\n                \n            \n            \n            \n            \n            Когда полицейские приехали на вызов, дверь в квартире была закрыта и с женщиной пришлось общаться через окно.\n            Новости Украины - Вчера, 22:42\n        \n        \n        \n            \n                СюжетБольшой кризис. Как его переживет экономика Украины?\n                \n            \n            \n            \n            \n            Министерство экономики оценивает падение экономики Украины в январе-апреле 2020 года на уровне 5%, за первый квартал 2020 года реальный ВВП Украины уменьшился на 1,5%.\n\n\n            Новости Украины - Вчера, 22:30\n        \n        \n        \n            \n                КСУ рассмотрит законность введенного карантина\n                \n            \n            \n            \n            \n            КСУ просят проверить на соответствие Конституции Украины некоторые пункты постановления Кабинета Министров об установлении карантина.\n            Новости Украины - Вчера, 22:22\n        \n        \n        \n            \n                На Киевщине у водителя Mercedes нашли оружие и наркотики\n                \n            \n            \n            \n            \n            Кроме наркотиков у водителя автомобиля Mercedes копы нашли ножи в чехлах автоматическое оружие.\n            Новости Украины - Вчера, 22:00\n        \n        \n        ВСЕ НОВОСТИ РАЗДЕЛА\n    \n\n    \n                    $(\".article_rubric_top img.lzl\").lazyload({\n                        placeholder: \"/i/blank.gif\",\n                        effect: \"fadeIn\",\n                        effectspeed: 10\n                    });\n                    $(\".article_rubric_top noscript\").remove();\n            \n    \nvar neededHeight_3_16_NewsPartList;var currentHeight_3_16_NewsPartList;function align_3_16_NewsPartList(){if(neededHeight_3_16_NewsPartList == $('.col__sidebar').outerHeight() && currentHeight_3_16_NewsPartList == $('.col__main').outerHeight()){return;}\nneededHeight_3_16_NewsPartList = $('.col__sidebar').outerHeight();\ncurrentHeight_3_16_NewsPartList = $('.col__main').outerHeight();\nvar difference = currentHeight_3_16_NewsPartList - neededHeight_3_16_NewsPartList;\nwhile(difference > 0 && difference > $('.article.article_rubric_top:visible').last().outerHeight() *0.9 || difference<0 && (-difference)>$('.article.article_rubric_top:visible').last().outerHeight()*0.3){\nif(difference > 0 && $('.article.article_rubric_top:visible').length > 0){\nif((currentHeight_3_16_NewsPartList - $('.article.article_rubric_top:visible').last().outerHeight())>1100){$('.article.article_rubric_top:visible').last().hide();\n}else{break;}\n}else if ($('.article.article_rubric_top:hidden').length > 0 && difference < 0){$('.article.article_rubric_top:hidden').first().show();}else{break;}\ncurrentHeight_3_16_NewsPartList = $('.col__main').outerHeight();difference = currentHeight_3_16_NewsPartList - neededHeight_3_16_NewsPartList;}\n}\n$(document).ready(function () {\n\n$(window).scroll(align_3_16_NewsPartList);});\n\n\n.polyana {background: rgba(0,0,0,.87) !important;}\n\t.polyana .popup {background: transparent !important; padding: 0px !important; -webkit-box-shadow: none !important; -moz-box-shadow: none !important; box-shadow: none !important;}\n\t.polyana .popup__close {display: none; font-size: 0;color: #fff; display: block; position: absolute; top: 6px; right: 0px; width: 20px; height: 20px; background: url(\"http://polyana.ill.in.ua/public/site/images/btn_close.png\") no-repeat 0px 0px; cursor: pointer; border: none !important; background-color: transparent !important;}\n\t.polyana .popup__close:hover {\n    transition: none; border: none !important; background-color: transparent !important; background-position: 0px -20px;\n    }\n\n\n    \n\n\n\n\n                    \n                    \n                    \n                    \n                        \n\n    \n    Дело Ефремова\n    \n    \n        \n            Против Ефремова закрыли одно из дел\n        \n    \n    \n\n\n\n    ЧИТАЙТЕ, СМОТРИТЕ\n    \n        \n        \n            \n            \n            \n            \n                Обострение на Донбассе: 14 обстрелов в сутки\n                Новости Украины - 08:21\n            \n        \n        \n        \n            \n            \n            \n            \n                СюжетИтоги 04.06: Допрос бывшего и новые министры85\n                События в Украине - 06:58\n            \n        \n        \n        \n            \n            \n            \n            \n                Выпускников школ призовут в армию позже \n                Новости Украины - 05:37\n            \n        \n        \n        \n            \n            \n            \n            \n                В МВД сообщили, уйдет ли Аваков в отставку \n                Новости Украины - 02:33\n            \n        \n        \n        \n            \n            \n            \n            \n                СюжетБольшой кризис. Как его переживет экономика Украины?\n                Новости Украины - Вчера, 22:30\n            \n        \n        \n        \n            \n            \n            \n            \n                КСУ рассмотрит законность введенного карантина\n                Новости Украины - Вчера, 22:22\n            \n        \n        \n        \n            \n            \n            \n            \n                СюжетС культурой и без образования. Новые министры \n                Новости Украины - Вчера, 21:05\n            \n        \n        \n        \n            \n            \n            \n            \n                Озвучены правила авиаперелетов в условиях пандемии\n                Новости Украины - Вчера, 20:34\n            \n        \n        \n        \n            \n            \n            \n            \n                Детали программы для Украины еще обсуждаются - МВФ\n                Новости Украины - Вчера, 20:10\n            \n        \n        \n        \n            \n            \n            \n            \n                В Раде требуют обнародовать меморандум с МВФ\n                Новости политики - Вчера, 17:41\n            \n        \n        \n        \n            \n            \n            \n            \n                Минздрав отменяет ограничение для туристов51\n                Новости Украины - Вчера, 16:46\n            \n        \n        \n        \n            \n            \n            \n            \n                ГБР разрешили принудительный привод Порошенко120\n                Новости Украины - Вчера, 15:00\n            \n        \n        \n        \n\n\n                    $(\".article_top_small img.lzl\").lazyload({\n                        placeholder: \"/i/blank.gif\",\n                        effect: \"fadeIn\",\n                        effectspeed: 10\n                    });\n                    $(\".article_top_small noscript\").remove();\n            \n\nvar neededHeight_3_18_NewsPartChoiceEditor;var currentHeight_3_18_NewsPartChoiceEditor;function align_3_18_NewsPartChoiceEditor(){if(neededHeight_3_18_NewsPartChoiceEditor == $('.col__sidebar').outerHeight() && currentHeight_3_18_NewsPartChoiceEditor == $('.col__center').outerHeight()){return;}\nneededHeight_3_18_NewsPartChoiceEditor = $('.col__sidebar').outerHeight();\ncurrentHeight_3_18_NewsPartChoiceEditor = $('.col__center').outerHeight();\nvar difference = currentHeight_3_18_NewsPartChoiceEditor - neededHeight_3_18_NewsPartChoiceEditor;\nwhile(difference > 0 && difference > $('.article.article_top_small:visible').last().outerHeight() *0.9 || difference<0 && (-difference)>$('.article.article_top_small:visible').last().outerHeight()*0.3){\nif(difference > 0 && $('.article.article_top_small:visible').length > 0){\nif((currentHeight_3_18_NewsPartChoiceEditor - $('.article.article_top_small:visible').last().outerHeight())>1100){$('.article.article_top_small:visible').last().hide();\n}else{break;}\n}else if ($('.article.article_top_small:hidden').length > 0 && difference < 0){$('.article.article_top_small:hidden').first().show();}else{break;}\ncurrentHeight_3_18_NewsPartChoiceEditor = $('.col__center').outerHeight();difference = currentHeight_3_18_NewsPartChoiceEditor - neededHeight_3_18_NewsPartChoiceEditor;}\n}\n$(document).ready(function () {\n\n$(window).scroll(align_3_18_NewsPartChoiceEditor);});\n\n\n\n                    \n                    \n                    \n                        \n\n\n\n\n\n         (new Image()).src = 'https://ad.mox.tv/delivery/tracking?hash=OW5FYjJoaDVpUnU5V2hhUkpUQ3dXNURHbjZqWTF3bDNNRklaalJZWU9XOFNNYUFBaUIyemQzdnNtNnJIeCsyMXhaVVlQelZYeWRpMmNRV3NzZUEvQ0FyLzkxUWJVV1RhYlpMdFJldCs5YmdDWFhxSGdvSUluV2RORHNQT0luVW5EbE9aSjhMcTFRb0lRZE9IcEZjaC9pL2cwRUwzWnFnazJLRVZjOXpnOFZTcGFXSGJ5N0xlVWc4VllWMVNvUFN1S2U1QytuRmw4R1k5K1MvU3c0SnB4S25Rc09HL21pRlVxNzBoMUV4NDhXaWgyeDdGUkkrZUxqRFpKRnNwS01LWHFQU043cEh3VFpuZmNZYXdpZ25iWmliMWFqUCs2MjNWUFZWQ2FPanJXbk9rSnk1Rmdib3UrT0Z4YXBSQkRIM0F3a01wcVBzUHNVTitLK1FtejN1QXR4TG02NU1BVmVCazRFczZIdkdEUHFQckJ3MTU2RDFCZUpoek1KeDVaVXpsVjYzT0tUM1dQOHMyZGE4U2R6UHJwanJEdktWL1J0Slp6NFVWK1R2WTVlSWJhMVFRUnpxbG5qemFLMUZneFlRL0ZOalM0S1NUQlRYa0tCTVBMTytkUGJzRGFYbFNKVGR5OEZIb1pOVmJWL1RlSWVBYlJXNmU1bGtkRTBuVUhZajJ6a05QdjhSdENYcWNjQmIzSjB2RDlENmk5Y2M3c0xxTjNheW16M2xWY2FJZHBodWc5Qy9RQTZGTVM0QWNQOHE0T2p2cVpwbmM1YUtCQ2lzeTVaOGkyaTR5VTA5SVdQdEtZSzU2MloyWnRCbnJVdmNkUjB5clBGTmxyZ0lTS05sTW1yRG56ZjdzMmZIcHV0VnhVdmlWdGZ4ZEZKdzU2WGowVFlZN0RoVXRwL2JJYU1QanBrZDZBSXp6TE0wSzNUaVZTRTdzZm11S2VGYVdxTnhSMk1nemxnSWN4WkxqeGNGRElZWTh2M2hRN1VSKyt0Z0JhMzk0Y3FQcGVkc0hZSUZRM2E1dVJXQ3d1bWt0K0IrbFFuK3hDNTIwbFlkckJaM0JuZFZBYWRTVnNSWi9lVWIrQXhHa05oZGwyRXk4T3BQTw%3D%3D&token=NmNWUm9XckZHM25ldlpkajVCMzUrdz09';var googletag = googletag || {};googletag.cmd = googletag.cmd || [];googletag.cmd.push(function() {var _YB=_YB||{ab:function(){return (_YB.dool?'b':'a'+Math.floor(Math.random()*10));},dc:function(){return (_YB.dool?'d':'c'+Math.floor(Math.random()*20));},mx:function(){return (!_YB.dool?'x':'m'+Math.floor(Math.random()*180));},tt:function(){return ('tt'+Math.floor(Math.random()*10));},dool:Math.random()>=0.1}; var _yt=new Date(),yb_th=_yt.getUTCHours()-8,yb_tm=_yt.getUTCMinutes(),yb_wd=_yt.getUTCDay();if(yb_th<0){yb_th=24+yb_th;yb_wd-=1;};if(yb_wd<0){yb_wd=7+yb_wd};  googletag.defineSlot('/52555387/korrespondent.net_300x600_1', [[300, 600]], 'div-gpt-ad-korrespondent.net_300x600_1').setTargeting('yb_ab', _YB.ab()).setTargeting('yb_dc', _YB.dc()).setTargeting('yb_mx', _YB.mx()).setTargeting('yb_tt', _YB.tt()).setTargeting('yb_ff', ''+Math.round(Math.random())).setTargeting('yb_th', yb_th.toString()).setTargeting('yb_tm', yb_tm.toString()).setTargeting('yb_wd', yb_wd.toString()).addService(googletag.pubads());googletag.pubads().collapseEmptyDivs();googletag.enableServices();});\n\n\n\n        \n            Сюжеты\n        \n        \n        \n            \n            \n                \n                    \n                    \n                \n                Итоги 04.06: Допрос бывшего и новые министры86\n            \n            \n                \n                    \n                    \n                \n                Большой кризис. Как его переживет экономика Украины?\n            \n            \n                \n                    \n                    \n                \n                Пандемия коронавируса. Главные новости 4 июня\n            \n            \n                \n                    \n                    \n                \n                С культурой и без образования. Новые министры \n            \n            \n                \n                    \n                    \n                \n                Важные открытия, которые затмил коронавирус\n            \n        \n                    $(\"#expert_article img.lzl\").lazyload({\n                        placeholder: \"/i/blank.gif\",\n                        effect: \"fadeIn\",\n                        effectspeed: 10\n                    });\n                    $(\"#expert_article noscript\").remove();\n            \n\n\nКормушки Flat FeederPro 30-100 гОпт и Розница Украина Производитель 098-8385898от 10 грнЗаспокоїть за секунду!Купуйте, поки є на складі!Подробнее\n.mt300-250_middle_1.mtr3{width:300px;height:250px;background-color:#FFFFFF;}\n.mt300-250_middle_1.mtr3:hover{background-color:#FFFFFF}\n.mt300-250_middle_1.mtr3 table{border-spacing:1px 1px}\n.mt300-250_middle_1.mtr3 tr{height:123px;}\n.mt300-250_middle_1.mtr3 td{background-color:#FFFFFF;border-width:1px;border-color:#333333;border-style:dashed;;padding:1px;text-align:left!important;}\n.mt300-250_middle_1.mtr3 td:hover{background-color:#EEEEEE}\n.mt300-250_middle_1.mtr3 .mt-img{width:117px;height:117px;border-width:2px;border-color:#ffffff;border-style:solid;;background-color: #ffffff}\n.mt300-250_middle_1.mtr3.img-top .mt-img{margin-bottom:2px}\n.mt300-250_middle_1.mtr3.img-left .mt-img{margin-right:2px}\n.mt300-250_middle_1.mtr3.img-right .mt-img{margin-left:2px}\n.mt300-250_middle_1.mtr3.img-top .mt-btn,\n.mt300-250_middle_1.mtr3.img-left .mt-btn,\n.mt300-250_middle_1.mtr3.img-right .mt-btn{margin-top:2px}\n.mt300-250_middle_1.mtr3 .mt-img:hover{width:117px;}\n.mt300-250_middle_1.mtr3 .mt-hdr a{font-family:Tahoma, Geneva, sans-serif;font-size:16px;color:#000080;font-weight:bold;text-decoration:none;font-style:none;}\n.mt300-250_middle_1.mtr3 .mt-hdr a:hover{font-size:16px;color:#e00;font-weight:normal;font-weight:bold;text-decoration:none;font-style:none;}\n.mt300-250_middle_1.mtr3 .mt-txt a{font-family:Tahoma, Geneva, sans-serif;font-size:14px;color:#333333;font-weight:none;text-decoration:none;font-style:none;}\n.mt300-250_middle_1.mtr3 .mt-txt a:hover{font-size:14px;color:#e00;font-weight:none;text-decoration:none;font-style:none;}\n.mt300-250_middle_1.mtr3 .mt-btn{background-color:#EE0000;padding:4px 8px;font-size:15px;}\n.mt300-250_middle_1.mtr3 .mt-btn:hover{background-color:#999999;font-size:15px}\n.mt300-250_middle_1.mtr3 .mt-btn a{color:#FFF;font-family:Tahoma, Geneva, sans-serif;font-weight:none;text-decoration:none;font-style:none;}\n.mt300-250_middle_1.mtr3 .mt-btn a:hover{color:#333333;font-weight:none;text-decoration:none;font-style:none;}\n\n\n Загрузка... .MarketGidDButton360033{display:       inline-block;width:         80px;height:        80px;background-color: RGBA(0,0,0,0.4);border:        2px solid white;border-radius:        999px;color:         white !important;font:          normal 500 24px/80px \"Sans\", sans-serif;transform: scale3d(0.0001,0.0001,0.0001);text-align:    center;text-shadow:   none;position: absolute;text-decoration: none !important;transition:all 1s;}.MarketGidDLayout360033{height: 100%;width: 100% !important;position: absolute !important;top: 0px;left: 0px;background-color: rgba(0, 0, 0, 0.5);z-index: 99999;}#MarketGidComposite360033 .mgline {position:relative}/* cyrillic-ext */ @font-face { font-family: 'Open Sans'; font-style: normal; font-weight: 400; src: local('Open Sans'), local('OpenSans'), url(https://fonts.gstatic.com/s/opensans/v10/K88pR3goAWT7BTt32Z01m1tXRa8TVwTICgirnJhmVJw.woff2) format('woff2'); unicode-range: U+0460-052F, U+20B4, U+2DE0-2DFF, U+A640-A69F; } /* cyrillic */ @font-face { font-family: 'Open Sans'; font-style: normal; font-weight: 400; src: local('Open Sans'), local('OpenSans'), url(https://fonts.gstatic.com/s/opensans/v10/RjgO7rYTmqiVp7vzi-Q5UVtXRa8TVwTICgirnJhmVJw.woff2) format('woff2'); unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116; } /* latin-ext */ @font-face { font-family: 'Open Sans'; font-style: normal; font-weight: 400; src: local('Open Sans'), local('OpenSans'), url(https://fonts.gstatic.com/s/opensans/v10/u-WUoqrET9fUeobQW7jkRVtXRa8TVwTICgirnJhmVJw.woff2) format('woff2'); unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF; } /* latin */ @font-face { font-family: 'Open Sans'; font-style: normal; font-weight: 400; src: local('Open Sans'), local('OpenSans'), url(https://fonts.gstatic.com/s/opensans/v10/cJZKeOuBrn4kERxqtaUH3VtXRa8TVwTICgirnJhmVJw.woff2) format('woff2'); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000; } /* cyrillic-ext */ @font-face { font-family: 'Open Sans'; font-style: normal; font-weight: 700; src: local('Open Sans Bold'), local('OpenSans-Bold'), url(https://fonts.gstatic.com/s/opensans/v10/k3k702ZOKiLJc3WVjuplzCUUniRZcd_wq8DYmIfsw2A.woff2) format('woff2'); unicode-range: U+0460-052F, U+20B4, U+2DE0-2DFF, U+A640-A69F; } /* cyrillic */ @font-face { font-family: 'Open Sans'; font-style: normal; font-weight: 700; src: local('Open Sans Bold'), local('OpenSans-Bold'), url(https://fonts.gstatic.com/s/opensans/v10/k3k702ZOKiLJc3WVjuplzOXREeHhJi4GEUJI9ob_ak4.woff2) format('woff2'); unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116; } /* latin-ext */ @font-face { font-family: 'Open Sans'; font-style: normal; font-weight: 700; src: local('Open Sans Bold'), local('OpenSans-Bold'), url(https://fonts.gstatic.com/s/opensans/v10/k3k702ZOKiLJc3WVjuplzBUOjZSKWg4xBWp_C_qQx0o.woff2) format('woff2'); unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF; } /* latin */ @font-face { font-family: 'Open Sans'; font-style: normal; font-weight: 700; src: local('Open Sans Bold'), local('OpenSans-Bold'), url(https://fonts.gstatic.com/s/opensans/v10/k3k702ZOKiLJc3WVjuplzOgdm0LZdjqr5-oayXSOefg.woff2) format('woff2'); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000; } #MarketGidComposite360033 .mgbox .mgline img { display: block; webkit-transition: all 0.1s ease-out; /* Android 2.1+, Chrome 1-25, iOS 3.2-6.1, Safari 3.2-6 */ transition: all 0.1s ease-out; /* Chrome 26, Firefox 16+, iOS 7+, IE 10+, Opera, Safari 6.1+ */ } #MarketGidComposite360033 .mgbox .mgline img:hover { backface-visibility: hidden; -webkit-transition: all 0.3s ease-out; /* Android 2.1+, Chrome 1-25, iOS 3.2-6.1, Safari 3.2-6 */ transition: all 0.3s ease-out; /* Chrome 26, Firefox 16+, iOS 7+, IE 10+, Opera, Safari 6.1+ */ transform: scale(1.3); -webkit-transform: scale(1.3); overflow: hidden; z-index: 99999 !important; display: block; } #MarketGidComposite360033 .mgbox div.image-container { overflow: hidden; } #MarketGidComposite360033 .mgresponsive { display: inherit; } #MarketGidComposite360033 .mgbox { padding: 1% !important; position: relative !important; text-align: center; vertical-align: top !important; margin: 0 auto; border-style: solid; border-width: 2px; border-color: #c60304; background-color: ; display: -ms-flexbox; display: -webkit-flex; display: flex; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-flex-wrap: wrap; -ms-flex-wrap: wrap; flex-wrap: wrap; line-height: 100% !important; transition: none !important; box-sizing: border-box; } #MarketGidComposite360033 .mgbox { width: 100%; max-width: 300px; } #MarketGidComposite360033 div.mcimg { text-align: center; float: left; margin-right: 5px; } #MarketGidComposite360033 img.mcimg { border-style: solid; border-color: #ffffff; border-width: 0px; width: 100% !important; height: auto !important; max-width: 80px; max-height: 80px; box-sizing: border-box; display: block; } #MarketGidComposite360033 .mctitle { text-align: left; } #MarketGidComposite360033 .mctitle a { font-weight: normal; font-size: 14px; line-height: 14px; font-style: normal; text-decoration: none; color: #222222; font-family: Arial,Helvetica,sans-serif; } #MarketGidComposite360033 .mcdesc { display: none; text-align: center; } #MarketGidComposite360033 .mcdesc a { font-weight: normal; font-size: 12px; line-height: 12px; font-style: normal; text-decoration: none; color: #666666; font-family: 'Open Sans', sans-serif; } #MarketGidComposite360033 .mcdomain { display: none; text-align: center; } #MarketGidComposite360033 .mcdomain a { font-weight: normal; font-size: 10px; line-height: 10px; font-style: normal; text-decoration: none; color: #bbbbbb; font-family: 'Open Sans', sans-serif; padding: 4px; display: block; overflow: hidden; } #MarketGidComposite360033 .mcdomain a img.mcimgsrc { vertical-align: bottom; margin-bottom: -3px; height: 20px; width: 20px; display: inline-block; } #MarketGidComposite360033 .mgline { background: none repeat scroll 0 0; background-color: ; cursor: pointer; display: inline-block; overflow: hidden; zoom: 1; display: inline; padding: 0 !important; border-style: solid; border-color: #ffffff; border-width: 0px; width: 100%; max-width: 100%; box-sizing: border-box; margin: 0 0 3% 0; display: -ms-flexbox; display: -webkit-flex; display: flex; -webkit-flex-direction: column; -ms-flex-direction: column; flex-direction: column; word-wrap: break-word; } #MarketGidComposite360033 .mgline:last-child {margin: 0;} #MarketGidComposite360033 .mgline .image-container { position: relative; } #MarketGidComposite360033 .mgline .image-container .mcimgad { position: absolute; right: 0; bottom: 0; width: 20px; height: 20px; } #MarketGidComposite360033 .mgline { vertical-align: top; } #MarketGidComposite360033 img.mcimg { display: block; } #MarketGidComposite360033 .mgline[max-width~=\"120px\"] .mcdesc { display: none !important; } @supports not (flex-wrap: wrap) { .mgbox { display: block !important; } #MarketGidComposite360033 .mgline { display: inline-block !important; } } .text-elements a { text-decoration: none; } #MarketGidComposite360033 div.mcprice { text-align: center; } #MarketGidComposite360033 div.mcprice span { font-weight: bold; font-size: 12px; line-height: 12px; font-style: normal; text-decoration: none; color: #ffffff; font-family: 'Open Sans', sans-serif; } #MarketGidComposite360033 div.mgbuybox, #MarketGidComposite360033 div.mgarrowbox { display: false; } #MarketGidComposite360033 div.mgbuybox, #MarketGidComposite360033 div.mgarrowbox, #MarketGidComposite360033 div.mcprice { display: none; } #MarketGidComposite360033 span.mcpriceold { text-decoration: line-through !important; } #MarketGidComposite360033 .mgpopular { background-color: rgba(255, 0, 0, 0.2) !important; border-color: rgba(255, 90, 0, 0.3) !important; } #MarketGidComposite360033 .mgbox { line-height: 0 !important; } #MarketGidComposite360033 .mghead { font-family: 'Open Sans', sans-serif !important; color: #e34222; font-size: 14px !important; text-transform: uppercase !important; } #MarketGidComposite360033 .mgtobottom { position: absolute; bottom: 0; width: 100%; text-align: left; } #MarketGidComposite360033 .mgline { position: relative; } #MarketGidComposite360033 .mgline .fake { visibility: hidden; position: relative; padding-top: 4px; } #MarketGidComposite360033 .mgline div.mcprice { background-color: ; padding: 3px 0; } #MarketGidComposite360033 .mgline .mctitle { line-height: 1 !important; } #MarketGidComposite360033 .mgline .mcdesc { padding-top: 7px; } #MarketGidComposite360033 .mgline .mcdomain { padding-top: 3px; } #MarketGidComposite360033 .mgline .mcdiscount { display: none; } #MarketGidComposite360033 .mgline .mcprice .mcpriceold { font-size: 10px; color: #bbbbbb; } #MarketGidComposite360033 .mgline:hover .mctitle a { color: ; text-decoration: underline !important; } #MarketGidComposite360033 .mg-slider-overlay { overflow: hidden; position: relative; } #MarketGidComposite360033 .mg-slider-overlay .mg-slider-wrap { min-height: 200px; position: relative; width: 100%; -webkit-transform: translate3D(0, 0, 0); -moz-transform: translate3D(0, 0, 0); -ms-transform: translate3D(0, 0, 0); -o-transform: translate3D(0, 0, 0); transform: translate3D(0, 0, 0); -webkit-transition-duration: 200ms; -moz-transition-duration: 200ms; -ms-transition-duration: 200ms; -o-transition-duration: 200ms; transition-duration: 200ms; } #MarketGidComposite360033 .mg-slider-overlay .mg-slider-wrap .mg-slider-box { left: 0; top: 0; position: absolute; width: 100%; } #MarketGidComposite360033 .mg-pagination { text-align: center; } #MarketGidComposite360033 .mg-pagination .mg-pagination-list { display: inline-block; } #MarketGidComposite360033 .mg-pagination .mg-pagination-item { cursor: pointer; display: inline-block; *display: inline; *zoom: 1; width: 8px; height: 8px; margin: 0 2px; background: #ddd; border-radius: 50%; } #MarketGidComposite360033 .mg-pagination .mg-pagination-item-prev, #MarketGidComposite360033 .mg-pagination .mg-pagination-item-next { background: #f7f7f7; border: 1px solid #cecece; border-radius: 2px; cursor: pointer; display: inline-block; height: 11px; margin: 0 10px; padding: 5px 0; text-align: center; vertical-align: middle; width: 29px; } #MarketGidComposite360033 .mg-pagination .mg-pagination-item-prev:after, #MarketGidComposite360033 .mg-pagination .mg-pagination-item-next:after { background: url(https://images.dable.io/static/i/prevnext2.png?3) no-repeat 0 0; background-size: 17px 11px; content: \"\"; display: inline-block; height: 13px; width: 9px; } #MarketGidComposite360033 .mg-pagination .mg-pagination-item-next:after { background-position: -10px 0; width: 8px; } #MarketGidComposite360033 .mg-pagination .mg-pagination-item-current { background: #508eef; } #MarketGidComposite360033 .mgheader div { position: absolute; z-index: 999; bottom: 0; right: 3px; } @media only screen and (max-device-width: 480px) { .mgline:not(:last-child) {display: none !important;} #MarketGidComposite360033 div.mcimg { float: left; margin-right: 0; } #MarketGidComposite360033 img.mcimg { max-width: 300px; max-height: 300px; } #MarketGidComposite360033 .mgheader div { position: absolute; z-index: 999; top: 1px; right: 1px; -webkit-filter: grayscale(100%) invert(100%) contrast(200%) !important; filter:grayscale(100%) invert(100%) contrast(200%); opacity: 1 !important; } #MarketGidComposite360033 .mgbox { padding: 0 !important; } #MarketGidComposite360033 .mgline .text-elements { position: absolute; bottom: 0; left: 0; width: 100%; background: #c60304; } #MarketGidComposite360033 .mctitle { padding: 5px; } #MarketGidComposite360033 .mctitle a { color: #fff; } } #MarketGidComposite360033 span.mghead { position: absolute; z-index: 999; top: 5px; left: 12px; }.MarketGidLuxupDiv360033{ visibility: visible; }        #MarketGidComposite360033 div.mcimg a.close-informer {            width: 14px;            height: 14px;            background-image: url(\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyFpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDIxIDc5LjE1NDkxMSwgMjAxMy8xMC8yOS0xMTo0NzoxNiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChXaW5kb3dzKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDo5NzI0ODBDMzY3ODcxMUU1OEM4RUU2RUJCOUREODIyQiIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDo5NzI0ODBDNDY3ODcxMUU1OEM4RUU2RUJCOUREODIyQiI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOjk3MjQ4MEMxNjc4NzExRTU4QzhFRTZFQkI5REQ4MjJCIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjk3MjQ4MEMyNjc4NzExRTU4QzhFRTZFQkI5REQ4MjJCIi8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+uNcpEQAAAHxJREFUeNqckgEKwCAIRe3fYjfKc2zX6hydaLRbbDnGkLDIPggl/5lKIcbIRJRqbDSnUmOHE6LPm+CEfhj6lnN+o5WVh1VOm6xColCXc/cgLWYev9gaejnQojCab5RDzyDt6RantqoBaz5zq54ZywJ3CXjIwQGd8skfAQYALdQqftYulocAAAAASUVORK5CYIJ0ZW50Ij4NCiA8ZGl2IGNsYXNzPSJjb250ZW50LWNvbnRhaW5lciI+PGZpZWxkc2V0Pg0KICA8aDI+NTAyIC0gV2ViIHNlcnZlciByZWNlaXZlZCBhbiBpbnZhbGlkIHJlc3BvbnNlIHdoaWxlIGFjdGluZyBhcyBhIGdhdGV3YXkgb3IgcHJveHkgc2VydmVyLjwvaDI+DQogIDxoMz5UaGVyZSBpcyBhIHByb2JsZW0gd2l0aCB0aGUgcGFnZSB5b3UgYXJlIGxvb2tpbmcgZm9yLCBhbmQgaXQgY2Fubm90IGJlIGRpc3BsYXllZC4gV2hlbiB0aGUgV2ViIHNlcnZlciAod2hpbGUgYWN0aW5nIGFzIGEgZ2F0ZXdheSBvciBwcm94eSkgY29udGFjdGVkIHRoZSB1cHN0cmVhbSBjb250ZW50IHNlcnZlciwgaXQgcmVjZWl2ZWQgYW4gaW52YWxpZCByZXNwb25zZSBmcm9tIHRoZSBjb250ZW50IHNlcnZlci48L2gzPg0KIDwvZmllbGRzZXQ+PC9kaXY+DQo8L2Rpdj4NCjwvYm9keT4NCjwvaHRtbD4NCg==\");            display: block;            opacity: 0;            position: absolute;            right: 3px;            top: 3px;            z-index: 1;            cursor: pointer;        }        #MarketGidComposite360033 div.mgline:hover a.close-informer {            opacity: 0.7;            -moz-transition: all 0.3s ease-out;            -o-transition: all 0.3s ease-out;            -webkit-transition: all 0.3s ease-out;            -ms-transition: all 0.3s ease-out;            transition: all 0.3s ease-out;        }        #MarketGidComposite360033 div.mgline a.close-informer:hover {            opacity: 1;            -moz-transition: all 0.3s ease-out;            -o-transition: all 0.3s ease-out;            -webkit-transition: all 0.3s ease-out;            -ms-transition: all 0.3s ease-out;            transition: all 0.3s ease-out;        }        #MarketGidComposite360033 div.mcimg {            position: relative;            display: inline-block;        }        div.image-with-price {            position: relative;        }        #MarketGidComposite360033 .mgline .image-container {            width: auto;            margin: 0 auto;            position: relative;        }.mghead{ font-weight:700;font-size:14px;text-transform:uppercase;text-align:left;font-family: \"Open Sans\", sans-serif;color:#4555a7;display:block;margin:5px 0 0px 5px;float:left;}.mgheader{  display: table !Important; width: 100% !important;margin-bottom:0px;}div.mg_addad360033{text-align: right; opacity: 0.5;margin-right: 10px;display: inline-block;float: right;} div.mg_addad360033:hover{opacity: 1} div.mg_addad360033 a{color: #000000; font:normal 10px Myriad Pro; text-decoration: none;} div.mg_addad360033 img{margin: 0px -5px 0px 0px; border:0px;float: none;padding:0px;}AMD Ryzen 5 Найвища продуктивність в змагальних іграх!Ultimate Ears Boom 3 Відтворення музики, пауза та пропуск записів одним ...Як воно, сидіти в салоні найкращого міського кросовера?.image-container {\noverflow: hidden;}\n.preload {\n  background: #2a397b;\n  left: -100%;\n  position: absolute;\n  top: 0;\n  height: 4px;\n  width: 100%;\n  z-index: 2;\n  -webkit-animation: preloadAnimation linear .8s;\n  -moz-animation: preloadAnimation linear .8s;\n  -ms-animation: preloadAnimation linear .8s;\n  -o-animation: preloadAnimation linear .8s;\n  animation: preloadAnimation linear .8s;\n  -webkit-animation-iteration-count: 1;\n  -moz-animation-iteration-count: 1;\n  -ms-animation-iteration-count: 1;\n  -o-animation-iteration-count: 1;\n  animation-iteration-count: 1;\n}\n@keyframes preloadAnimation {\n  0% {\n    transform: translateX(0)\n  }\n  90% {\n    transform: translateX(100%)\n  }\n  100% {\n    transform: translateY(-2px)\n  }\n}\n@-moz-keyframes preloadAnimation {\n  0% {\n    -moz-transform: translateX(0)\n  }\n  90% {\n    -moz-transform: translateX(100%)\n  }\n  100% {\n    -moz-transform: translateY(-2px)\n  }\n}\n@-ms-keyframes preloadAnimation {\n  0% {\n    -ms-transform: translateX(0)\n  }\n  90% {\n    -ms-transform: translateX(100%)\n  }\n  100% {\n    -ms-transform: translateY(-2px)\n  }\n}\n\nНовости партнеров\n\nНовости партнеров\n\n\n\n\t\n\t\t\n\t\n\n\n\n\n    \n\t\n        \n            ПОПУЛЯРНЫЕ В РАЗДЕЛЕ\n        \n        \n            ЧИТАЕМЫЕ\n            КОММЕНТИРУЕМЫЕ\n            СОЦИАЛЬНЫЕ\n        \n        \n        \n            \n            \n                \n                    \n                    \n                \n                1\n                Карантин: Ляшко объяснил, что будет после 22 июня\n            \n            \n                \n                    \n                    \n                \n                2\n                К чертовой матери: Саакашвили возмутился вопросом бизнесмена\n            \n            \n                \n                    \n                    \n                \n                3\n                Синоптики рассказали о погоде на Троицу-2020\n            \n            \n                \n                    \n                    \n                \n                4\n                Озвучены итоги первого дня автофиксации нарушений ПДД на Киевщине\n            \n            \n                \n                    \n                    \n                \n                5\n                В Госрезерве \"мыши съели\" 2700 вагонов зерна - МВД\n            \n        \n\n\n\n\n\n                    \n\n                \n            \n\n        \n        \n\n\tЧистый огород за сутки!ПодробнееСвітильник на сонячній енергіїДатчики руху і світла. Ніяких проводівПодробнееВсе еще покупаете чернику?А я выращиваю дома до 50 кг в месяц - круглый...ПодробнееМикрозелень - новый тренд 2020гСодержит в 40 раз больше полезных веществ чемПодробнееШкіряні кросівки ALDEXСтильне взуття ніколи не виходить з модиПодробнее\n.mtbottom.mtr3{width:100%;height:280px;background-color:#FFFFFF;}\n.mtbottom.mtr3:hover{background-color:#FFFFFF}\n.mtbottom.mtr3 table{border-spacing:2px 2px}\n.mtbottom.mtr3 tr{height:276px;}\n.mtbottom.mtr3 td{background-color:#FFFFFF;border-width:1px;border-color:#c0c0c0;border-style:solid;;padding:1px;text-align:center!important;width:20%}\n.mtbottom.mtr3 td:hover{background-color:#ffffff}\n.mtbottom.mtr3 .mt-img{width:160px;height:160px;border-width:1px;border-color:#ffffff;border-style:solid;;background-color: #ffffff}\n.mtbottom.mtr3.img-top .mt-img{margin-bottom:2px}\n.mtbottom.mtr3.img-left .mt-img{margin-right:2px}\n.mtbottom.mtr3.img-right .mt-img{margin-left:2px}\n.mtbottom.mtr3.img-top .mt-btn,\n.mtbottom.mtr3.img-left .mt-btn,\n.mtbottom.mtr3.img-right .mt-btn{margin-top:2px}\n.mtbottom.mtr3 .mt-img:hover{width:160px;}\n.mtbottom.mtr3 .mt-hdr a{font-family:Tahoma, Geneva, sans-serif;font-size:15px;color:#000000;font-weight:bold;text-decoration:none;font-style:none;}\n.mtbottom.mtr3 .mt-hdr a:hover{font-size:15px;color:#e00;font-weight:normal;font-weight:bold;text-decoration:underline;font-style:none;}\n.mtbottom.mtr3 .mt-txt a{font-family:Tahoma, Geneva, sans-serif;font-size:15px;color:#000000;font-weight:none;text-decoration:none;font-style:none;}\n.mtbottom.mtr3 .mt-txt a:hover{font-size:15px;color:#e00;font-weight:none;text-decoration:underline;font-style:none;}\n.mtbottom.mtr3 .mt-btn{background-color:#EE0000;padding:4px 8px;font-size:16px;left:50%;-moz-transform:translateX(-50%);-ms-transform:translateX(-50%);-webkit-transform:translateX(-50%);-o-transform:translateX(-50%);transform:r translateX(-50%);}\n.mtbottom.mtr3 .mt-btn:hover{background-color:#999999;font-size:16px}\n.mtbottom.mtr3 .mt-btn a{color:#FFFFFF;font-family:Tahoma, Geneva, sans-serif;font-weight:bold;text-decoration:none;font-style:none;}\n.mtbottom.mtr3 .mt-btn a:hover{color:#333333;font-weight:bold;text-decoration:none;font-style:none;}\n\n\n\n\n\n\n\n\n\n\n\n\n        \n\n\n\n\n<!--\n    bmN = navigator, bmD = document, bmD.cookie = 'b=b', i = 0, bs = [], bm = { o: 1, v: 50, s: 50, t: 6, c: bmD.cookie ? 1 : 0, n: Math.round((Math.random() * 1000000)), w: 0 };\n    try { obHP.style.behavior = \"url('#default#homePage')\"; obHP.addBehavior('#default#homePage'); if (obHP.isHomePage(window.location.href)) bm.h = 1; } catch (e) { ; }\n    for (var f = self; f != f.parent; f = f.parent) bm.w++;\n    try {\n        if (bmN.plugins && bmN.mimeTypes.length && (x = bmN.plugins['Shockwave Flash'])) bm.m = parseInt(x.description.replace(/([a-zA-Z]|s)+/, ''));\n        else for (var f = 3; f < 20; f++) if (eval('new ActiveXObject(\"ShockwaveFlash.ShockwaveFlash.' + f + '\")')) bm.m = f\n    } catch (e) { ; }\n    try { bm.y = bmN.javaEnabled() ? 1 : 0 } catch (e) { ; }\n    try { bmS = screen; bm.v ^= bm.d = bmS.colorDepth || bmS.pixelDepth; bm.v ^= bm.r = bmS.width } catch (e) { ; }\n    r = bmD.referrer.slice(7); if (r && r.split('/')[0] != window.location.host) { bm.f = escape(r); bm.v ^= r.length }\n    bm.v ^= window.location.href.length; for (var x in bm) if (/^[ohvstcnwmydrf]$/.test(x)) bs[i++] = x + bm[x];\n    bmD.write('<sc' + 'ript type=\"text/javascript\" language=\"javascript\" src=\"//c.bigmir.net/?' + bs.join('&') + '\"></sc' + 'ript>');\n//-->\n\n<img src=\"//c.bigmir.net/?v50&s50&t6\" width=\"0\" height=\"0\" alt=\"\" title=\"\" border=\"0\" />\n\n\n\n\n\n\n\n    \n         \n    \n   \n  \n\n    \n        \n           \n                \n                    \n                    Facebook \n                    \n                    Twitter \n                    Google+ \n                    RSS-ленты\n                    E-mail рассылка\n                    \n                \n            \n            \n                Cайты UMHgroupI.uabigmir)netКорреспонденТАргументы и факты в УкраинеКП в УкраинеДеньги.uaFootball.uaiSport.uaВ ГородеGloss.uaTV.uaAfisha.bigmir.nettochka.netIvona.bigmir.netI & RunningBike & MeАрхидеяЗа Рулём УкраинаMport.uaSmak.uaFood & MoodKolobok.uaRadioclubNRJ.uaLounge FMНаше РадиоРетро FMДжем FMАвторадиоРадио Пятница\n                .dropdown-list {color: #B5B7B9; display: -moz-inline-stack; display: inline-block; zoom:1; *display: inline; _overflow: hidden; cursor: pointer; padding: 4px 12px 4px 4px;\tbackground: url('//ui.ill.in.ua/i/dropdown_arrows1.png') no-repeat right 1px; position: relative;} .dropdown-list:hover {background-color: #464C52;} .dropdown-class .dropdown-list {background: url('//ui.ill.in.ua/i/dropdown_arrows1.png') no-repeat right -32px; background-color: #575D63; color: #B5B7B9;} .f-dropdown {position: absolute; z-index: 9999999; font-size: 11px; display: none; bottom: 28px;} .dropdown-class .f-dropdown {display: block;} .f-dropdown .dropdown-menu-umh,.f-dropdown .dropdown-panel {min-width: 160px; max-width: 360px;\tlist-style: none; background: #FFF;\tborder: solid 1px rgba(0, 0, 0, .2); box-shadow: 0 5px 10px rgba(0, 0, 0, .2); overflow: visible; padding: 4px 0; margin: 0;} .f-dropdown .dropdown-panel {padding: 10px;} .f-dropdown.dropdown-tip {margin-top: 8px;} .f-dropdown.dropdown-tip:before {position: absolute; bottom: -6px; left: 9px; content: ''; border-left: solid transparent 7px; border-right: solid transparent 7px; border-top: 7px solid #CCC; border-bottom-color: rgba(0, 0, 0, 0.2); display: inline-block;} .f-dropdown.dropdown-tip.dropdown-anchor-right:before {left: auto; right: 9px;} .f-dropdown.dropdown-tip:after {position: absolute; bottom: -5px; left: 10px; content: ''; border-left: solid transparent 6px; border-right: solid transparent 6px; border-top: 6px solid #FFF; display: inline-block;} .f-dropdown.dropdown-tip.dropdown-anchor-right:after {left: auto; right: 10px;} .f-dropdown.dropdown-scroll .dropdown-menu-umh, .f-dropdown.dropdown-scroll .dropdown-panel {max-height: 358px; overflow: auto;} .f-dropdown .dropdown-menu-umh LI {list-style: none; padding: 0 0; margin: 0; line-height: 18px;background : none repeat scroll 0 0 transparent !important;} .f-dropdown .dropdown-menu-umh LI > A, .f-dropdown .dropdown-menu-umh LABEL {display: block; color: #555; text-decoration: none; line-height: 16px;\tpadding: 3px 15px; white-space: nowrap;} .f-dropdown .dropdown-menu-umh LI > A:hover, .f-dropdown .dropdown-menu-umh LABEL:hover {background-color: #0094F5; color: #FFF; cursor: pointer;} #bigmir_footer_iframe {height: 320px;}\n\n                                    \n                    Контакты \n                    Реклама на сайте\n                    Использование материалов korrespondent.net \n                    Правила пользования сайтом \n                    \n                \n            \n            \n                \n                    Договор пользования сайтом \n                    Политика в сфере конфиденциальности и персональных данных \n                    Пользовательское соглашение \n\n                                    \n                                \n                   \n            \n            \n                \n                    Журнал Корреспондент \n                    \n                    \n                        №6(847)\n                        от 28 МАЯ 2020\n                        \n                            Архив \n                            Проекты журнала \n                            Реклама в журнале \n                            Подпишись\n                        \n                    \n                \n            \n            \n        \n        \n        \n            © 2000-2020, Korrespondent.net\n            Использование любых материалов, размещённых на сайте, разрешается при условии ссылки на Корреспондент.net.            \nПри копировании материалов со страницы «Новости Украины и мира», для интернет-изданий – обязательна прямая открытая для поисковых систем гиперссылка.             Ссылка должна быть размещена в независимости от полного либо частичного использования материалов. Гиперссылка (для интернет- изданий) – должна быть размещена в подзаголовке или в             первом абзаце материала.\nНовости с пометками \"Мнение\", \"Экспертиза\", \"Заявление\", \"Регионы\", \"Деньги\", \"Власть\", \"Выборы\", \"Тест-драйв\" публикуются на правах рекламы.\nЛюбое копирование, публикация, републикация и другое распространение информации, которое содержит ссылку на \"Интерфакс-Украина\", EPA / UPG, строго воспрещается.\nВладелец веб-страницы в разделе Я- Корреспондент является автор публикации.            \n        \n        \n\n\n<!--\n    iS = '<img src=\"//r.i.ua/s?u1647&p4&n' + Math.random();\n    iD = document; if (!iD.cookie) iD.cookie = \"b=b; path=/\"; if (iD.cookie) iS += '&c1';\n    iS += '&d' + (screen.colorDepth ? screen.colorDepth : screen.pixelDepth)\n+ \"&w\" + screen.width + '&h' + screen.height;\n    iT = iD.referrer.slice(7); iH = window.location.href.slice(7);\n    ((iI = iT.indexOf('/')) != -1) ? (iT = iT.substring(0, iI)) : (iI = iT.length);\n    if (iT != iH.substring(0, iI)) iS += '&f' + escape(iD.referrer.slice(7));\n    iS += '&r' + escape(iH);\n    iD.write(iS + '\" border=\"0\" width=\"0\" height=\"0\" />');\n//-->\n\n\n<!--\n                               new Image().src = \"//counter.yadro.ru/hit?r\" +\nescape(document.referrer) + ((typeof (screen) == \"undefined\") ? \"\" :\n\";s\" + screen.width + \"*\" + screen.height + \"*\" + (screen.colorDepth ?\nscreen.colorDepth : screen.pixelDepth)) + \";u\" + escape(document.URL) +\n\";\" + Math.random();//-->\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n              \n       \n\n\n\n\nПолуничне дерево, що родить по 30 кг. за сезон! Спробуйте199 грнТоп продаж Розпродаж якісної постільної білизни. -60% на все!Топ продаж Шторка на магнітах для дверного отвору - зручність і захист!149 грнТоп продаж #bn_phtc{all: initial}#bn_phtc .rc-phtc-td{border:1px solid #D0D0D0 !important;text-align:left !important;padding:0px !important;background-color:#FFFFFF !important;vertical-align:top !important;line-height:0 !important;}#bn_phtc .rc-phtc-imgbox{margin:0 3px 0 0 !important;float:left !important;width:180px !important;height:102px !important;box-sizing:content-box !important;padding:0 !important;overflow:hidden !important;background:#fff !important;display:block !important;}#bn_phtc .rc-phtc-img{max-width:100% !important;max-height:100% !important;border:0 !important;margin:0 !important;padding:0 !important;width:100% !important;height:auto !important;}#bn_phtc .rc-phtc-title{font-family:Arial, sans-serif !important;font-size:12px !important;line-height:normal !important;color:#000000 !important;text-decoration:none !important;font-weight:normal !important;float:none !important;display:block !important;margin:0 !important;padding:0 !important;}#bn_phtc .rc-phtc-desc{font-family:Arial, sans-serif !important;font-size:17px !important;line-height:normal !important;color:#000000 !important;text-decoration:none !important;font-weight:normal !important;float:none !important;display:block !important;margin:0 !important;padding:0 !important;}#bn_phtc .rc-phtc-link{font-family:Arial, sans-serif !important;font-size:12px !important;line-height:normal !important;color:#009a28 !important;font-weight:normal !important;float:none !important;display:block !important;margin:0 !important;padding:0 !important;text-decoration:none !important;border:0 !important;}#bn_phtc .rc-phtc-price{font-family:Arial, sans-serif !important;font-size:17px !important;font-weight:bold !important;line-height:normal !important;float:none !important;display:block !important;margin:0 !important;padding:0 !important;color:#000000 !important;}#bn_phtc .rc-phtc-priceold{font-family:Arial, sans-serif !important;font-size:17px !important;font-weight:normal !important;line-height:normal !important;float:none !important;display:block !important;margin:0 !important;padding:0 !important;color:#F0690F !important;text-decoration:line-through !important;}#bn_phtc .rc-phtc-button{position:absolute !important;right:12px !important;top:65px !important;width:30px !important;height:30px !important;border-radius:50% !important;background:#F32C12 !important;display:block !important;font-size:0 !important;box-shadow:1px 2px 4px rgba(0, 0, 0, 0.3) !important;}#bn_phtc .rc-phtc-button::after{display:block !important;content:\"\" !important;background:url(//recreativ.ru/img/gt.svg) no-repeat center center !important;background-size:100% 100% !important;width:54% !important;height:54% !important;margin:23% !important;position:absolute !important;top:0 !important;left:0 !important;}#bn_phtc .rc-phtc-logo:hover{display:block !important;width:64px !important;}\n\n\n    (function() {\n        var domain = window.location.hostname,\n            partition = window.location.pathname.split('/')[1],\n            subPartition = window.location.pathname.split('/')[2],\n            container = document.getElementById('for_ph_rm'),\n            ph = document.createElement('DIV'),\n            pid = 'admixer_rm_inner', // other pages\n            dataZone = \"0c05bfe1-54d5-4247-b91a-f9da0c4807fe\"; // other pages\n        container.appendChild(ph);\n        if ((domain=='korrespondent.net')||(domain=='ua.korrespondent.net')) {\n            // main\n            if (partition == '') {\n                pid = 'admixer_rm_main';\n                dataZone = \"5367f7aa-e4a4-4553-8f35-ab84c3212209\";\n                // sport\n            } else if (partition == 'sport') {\n                pid = 'admixer_rm_sport';\n                dataZone = \"d9610585-aad9-4f2c-a07d-b65ced65f753\";\n                // lifestyle\n            } else if (partition == 'lifestyle') {\n                // lifestyle/motors\n                if (subPartition == 'motors') {\n                    pid = 'admixer_rm_lifestyle_motors';\n                    dataZone = \"79ed49b5-f5f7-4842-bf5e-107afadc4d71\";\n                    // lifestyle/interiors\n                } else if (subPartition == 'interiors') {\n                    pid = 'admixer_rm_lifestyle_interiors';\n                    dataZone = \"67b0e1d1-bd84-4819-afe7-62015b4edbe6\";\n                    // lifestyle/other\n                } else {\n                    pid = 'admixer_rm_lifestyle';\n                    dataZone = \"284bffd9-df61-44aa-8c93-274bf36127a8\";\n                }\n                // business\n            } else if (partition == 'business') {\n                pid = 'admixer_rm_business';\n                dataZone = \"ae4a30c7-5a10-442d-a4ca-e8b838481a80\";\n            }\n        }\n        ph.id = pid;\n        ph.setAttribute('data-zone', dataZone);\n        (window.admixerAds = window.admixerAds || []).push(ph.id);\n    })();\n\n\nДля удобства пользования сайтом используются Cookies.  Подробнее здесьThis website uses cookies to ensure you get the best experience on our website. Learn moreСогласен / Got it\n.k-disclaimer__button {float: right;margin: 4px 0;padding: 5px 5px;background: #ff0000;cursor: pointer;display: block;padding-bottom: 3px;}.k-disclaimer__link{color: #f90000;padding:0 10px;}.k-disclaimer{display:block;padding: 5px 10px;background: black; color: aliceblue;}.k-disclaimer__description{display: inline;}.k-disclaimer__content {display: flex;justify-content: space-between;}\n    "
+      },
+      {
+        "header": "DIV",
+        "content": "\n\n\t\n"
+      },
+      {
+        "header": "DIV",
+        "content": "\n    \n        X\n        Ошибка\n        \n    \n"
+      }
+    ],
+    {
+      "name": "Дмитрий",
+      "phone": "+9283746234",
+      "id": 7
+    },
+    {
+      "name": "Николай",
+      "phone": "+9283746234",
+      "id": 8
+    },
+    {
+      "name": "asdf",
+      "phone": "+9283746234",
+      "id": 9
+    }
+  ]
+}
